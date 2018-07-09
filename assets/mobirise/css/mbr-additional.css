@@ -2048,3 +2048,6 @@ body {
 .cid-qXj1teT6Qv .google-map[data-state="loading"] [data-state-details] {
   display: none;
 }
+.cid-qXj1teT6Qv P {
+  text-align: left;
+}
