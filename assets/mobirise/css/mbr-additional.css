@@ -49,10 +49,10 @@ body {
 }
 .display-7 {
   font-family: 'Rubik', sans-serif;
-  font-size: 0.6rem;
+  font-size: 0.8rem;
 }
 .display-7 > .mbr-iconfont {
-  font-size: 0.96rem;
+  font-size: 1.28rem;
 }
 /* ---- Fluid typography for mobile devices ---- */
 /* 1.4 - font scale ratio ( bootstrap == 1.42857 ) */
@@ -654,13 +654,13 @@ a:hover {
   box-shadow: none;
   color: #565656;
   font-family: 'Rubik', sans-serif;
-  font-size: 0.6rem;
+  font-size: 0.8rem;
   line-height: 1.43;
   min-height: 3.5em;
   padding: 1.07em .5em;
 }
 .form-control > .mbr-iconfont {
-  font-size: 0.96rem;
+  font-size: 1.28rem;
 }
 .form-control,
 .form-control:focus {
@@ -2437,23 +2437,23 @@ body {
   padding-bottom: 60px;
   background-image: url("../../../assets/images/jumbotron.jpg");
 }
-.cid-qXjGUPkWp0 {
+.cid-qXjGWxsMmw {
   padding-top: 60px;
   padding-bottom: 60px;
   background-color: #ffffff;
 }
 @media (min-width: 992px) {
-  .cid-qXjGUPkWp0 .mbr-figure {
-    padding-left: 4rem;
+  .cid-qXjGWxsMmw .mbr-figure {
+    padding-right: 4rem;
   }
 }
 @media (max-width: 992px) {
-  .cid-qXjGUPkWp0 .mbr-figure {
-    padding-top: 1rem;
+  .cid-qXjGWxsMmw .mbr-figure {
+    padding-bottom: 1rem;
   }
 }
-.cid-qXjGUPkWp0 .mbr-text {
-  color: #767676;
+.cid-qXjGWxsMmw .mbr-text {
+  color: #232323;
 }
 .cid-qXjGVmgJjM {
   padding-top: 60px;
@@ -2471,7 +2471,7 @@ body {
   }
 }
 .cid-qXjGVmgJjM .mbr-text {
-  color: #767676;
+  color: #232323;
 }
 .cid-qXjGVVXrO0 {
   padding-top: 60px;
@@ -2489,42 +2489,6 @@ body {
   }
 }
 .cid-qXjGVVXrO0 .mbr-text {
-  color: #767676;
-}
-.cid-qXjGWxsMmw {
-  padding-top: 60px;
-  padding-bottom: 60px;
-  background-color: #ffffff;
-}
-@media (min-width: 992px) {
-  .cid-qXjGWxsMmw .mbr-figure {
-    padding-right: 4rem;
-  }
-}
-@media (max-width: 992px) {
-  .cid-qXjGWxsMmw .mbr-figure {
-    padding-bottom: 1rem;
-  }
-}
-.cid-qXjGWxsMmw .mbr-text {
-  color: #767676;
-}
-.cid-qXjGYfHe54 {
-  padding-top: 60px;
-  padding-bottom: 60px;
-  background-color: #ffffff;
-}
-@media (min-width: 992px) {
-  .cid-qXjGYfHe54 .mbr-figure {
-    padding-left: 4rem;
-  }
-}
-@media (max-width: 992px) {
-  .cid-qXjGYfHe54 .mbr-figure {
-    padding-top: 1rem;
-  }
-}
-.cid-qXjGYfHe54 .mbr-text {
   color: #767676;
 }
 .cid-qXj9icDqlA .navbar {
