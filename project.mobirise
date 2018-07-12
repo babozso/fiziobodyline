@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Fizioline",
-    "currentPage": "page5.html",
+    "currentPage": "page7.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -4577,7 +4577,7 @@
             }
           },
           "_name": "content1",
-          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Felső térköz\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Alsó térköz\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"3\">\n        <input type=\"color\" title=\"Háttérszín\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-4\" data-app-selector=\".mbr-text\" data-multiline mbr-article>Gerinc megbetegedéseinek kezelésénél egyik leggyakrabban alkalmazott kezelési formát a német Dieter Dorn kezdte kidolgozni. Nem tett mást, mint egy, a feledés homályába merülő népi gyógymódot fejlesztett tovább.\n<div>\n</div><div>A Dorn-manuálterápia világszerte egyre népszerűbb gerinckorrekciós módszer. A kezelés nem csupán tökéletesen biztonságos, de rendkívül hatékony is. Mindössze 2-3 alkalom utánlátványos javulás várható, legyen szó szinte bármilyen gerinc- vagy egyéb mozgásszervi problémáról. Betegségek megelőzésére, illetve a már kialakult betegségek kezelésére egyaránt alkalmas.</div></div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Felső térköz\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Alsó térköz\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"3\">\n        <input type=\"color\" title=\"Háttérszín\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-4\" data-app-selector=\".mbr-text\" data-multiline mbr-article><p>Gerinc megbetegedéseinek kezelésénél egyik leggyakrabban alkalmazott kezelési formát a német Dieter Dorn kezdte kidolgozni. Nem tett mást, mint egy, a feledés homályába merülő népi gyógymódot fejlesztett tovább.</p><p>\n</p><div>\n</div><div>A Dorn-manuálterápia világszerte egyre népszerűbb gerinckorrekciós módszer. A kezelés nem csupán tökéletesen biztonságos, de rendkívül hatékony is. Mindössze 2-3 alkalom után látványos javulás várható, legyen szó szinte bármilyen gerinc- vagy egyéb mozgásszervi problémáról. Betegségek megelőzésére, illetve a már kialakult betegségek kezelésére egyaránt alkalmas.</div><p></p></div>\n        </div>\n    </div>\n</section>",
           "_cid": "qXCm3iKWav",
           "_protectedParams": [],
           "_global": false,
