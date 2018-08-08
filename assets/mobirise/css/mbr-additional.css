@@ -1770,7 +1770,7 @@ body {
   background-color: #f4f0c2;
 }
 .cid-qXj4ccKcRY H2 {
-  color: #465052;
+  color: #232323;
 }
 .cid-qXj4hSHCf4 {
   padding-top: 30px;
@@ -1884,10 +1884,18 @@ body {
   box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.05);
   transition: box-shadow 0.3s;
 }
-.cid-qXj0wmSAf6 {
-  padding-top: 90px;
-  padding-bottom: 90px;
+.cid-r08BgbPfLZ {
+  padding-top: 45px;
+  padding-bottom: 30px;
   background-color: #f4f0c2;
+}
+.cid-r08BgbPfLZ .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-qXj0wmSAf6 {
+  padding-top: 60px;
+  padding-bottom: 90px;
+  background-color: #ffffff;
 }
 .cid-qXj0wmSAf6 .mbr-section-subtitle {
   color: #767676;
