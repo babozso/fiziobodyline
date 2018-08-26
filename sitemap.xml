@@ -1,8 +1,5 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>https://fizioline.hu/index.html</loc>
-	</url>
-	<url>
 		<loc>https://fizioline.hu/page1.html</loc>
 	</url>
 	<url>
@@ -30,21 +27,24 @@
 		<loc>https://fizioline.hu/page11.html</loc>
 	</url>
 	<url>
-		<loc>https://fizioline.hu/page10.html</loc>
+		<loc>https://fizioline.hu/index.html</loc>
 	</url>
 	<url>
-		<loc>https://fizioline.hu/page12.html</loc>
+		<loc>https://fizioline.hu/vállfájdalom.html</loc>
 	</url>
 	<url>
-		<loc>https://fizioline.hu/page13.html</loc>
+		<loc>https://fizioline.hu/teniszkönyökgolfkönyök.html</loc>
 	</url>
 	<url>
-		<loc>https://fizioline.hu/page15.html</loc>
+		<loc>https://fizioline.hu/nyakifájdalom.html</loc>
 	</url>
 	<url>
-		<loc>https://fizioline.hu/page16.html</loc>
+		<loc>https://fizioline.hu/gerincferdülés.html</loc>
 	</url>
 	<url>
-		<loc>https://fizioline.hu/.html</loc>
+		<loc>https://fizioline.hu/derékfájáslumágó.html</loc>
+	</url>
+	<url>
+		<loc>https://fizioline.hu/csípőfájdalom.html</loc>
 	</url>
 </urlset>
