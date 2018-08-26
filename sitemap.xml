@@ -1,35 +1,5 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>https://fizioline.hu/page1.html</loc>
-	</url>
-	<url>
-		<loc>https://fizioline.hu/page2.html</loc>
-	</url>
-	<url>
-		<loc>https://fizioline.hu/page3.html</loc>
-	</url>
-	<url>
-		<loc>https://fizioline.hu/page4.html</loc>
-	</url>
-	<url>
-		<loc>https://fizioline.hu/page5.html</loc>
-	</url>
-	<url>
-		<loc>https://fizioline.hu/page6.html</loc>
-	</url>
-	<url>
-		<loc>https://fizioline.hu/page7.html</loc>
-	</url>
-	<url>
-		<loc>https://fizioline.hu/page8.html</loc>
-	</url>
-	<url>
-		<loc>https://fizioline.hu/page11.html</loc>
-	</url>
-	<url>
-		<loc>https://fizioline.hu/index.html</loc>
-	</url>
-	<url>
 		<loc>https://fizioline.hu/vállfájdalom.html</loc>
 	</url>
 	<url>
@@ -46,5 +16,35 @@
 	</url>
 	<url>
 		<loc>https://fizioline.hu/csípőfájdalom.html</loc>
+	</url>
+	<url>
+		<loc>https://fizioline.hu/bokaficam.html</loc>
+	</url>
+	<url>
+		<loc>https://fizioline.hu/perifériásidegmobilizáció.html</loc>
+	</url>
+	<url>
+		<loc>https://fizioline.hu/dornterápia.html</loc>
+	</url>
+	<url>
+		<loc>https://fizioline.hu/fdm.html</loc>
+	</url>
+	<url>
+		<loc>https://fizioline.hu/kineziotape.html</loc>
+	</url>
+	<url>
+		<loc>https://fizioline.hu/schrothterápia.html</loc>
+	</url>
+	<url>
+		<loc>https://fizioline.hu/mckenzieterápia.html</loc>
+	</url>
+	<url>
+		<loc>https://fizioline.hu/gyógytorna.html</loc>
+	</url>
+	<url>
+		<loc>https://fizioline.hu/munkatársak.html</loc>
+	</url>
+	<url>
+		<loc>https://fizioline.hu/.html</loc>
 	</url>
 </urlset>
