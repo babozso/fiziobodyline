@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Fizioline",
-    "currentPage": ".html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -7593,7 +7593,7 @@
         }
       ]
     },
-    ".html": {
+    "index.html": {
       "settings": {
         "main": true,
         "title": "Fizioline",
