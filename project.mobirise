@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "Fizioline",
+    "name": "FizioBodyline",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
@@ -54,7 +54,7 @@
       }
     ],
     "versionFirst": "4.7.8",
-    "uniqCompNum": 135,
+    "uniqCompNum": 136,
     "versionPublish": "4.7.8",
     "screenshot": "screenshot.png",
     "siteUrl": "https://fizioline.hu",
@@ -2325,7 +2325,7 @@
         {
           "loadsvg": "@PROJECT_PATH@/assets/images/loading.svg",
           "_params": {
-            "paddingTop": "2",
+            "paddingTop": 0,
             "paddingBottom": 0,
             "postToLoad": 3,
             "facebook": "https://www.facebook.com/fiziobodyline.hu/?modal=admin_todo_tour",
@@ -2345,7 +2345,7 @@
             "Bővítmény"
           ],
           "_name": "feed",
-          "_anchor": "feed-3q"
+          "_anchor": "feed-3r"
         },
         {
           "_styles": {
