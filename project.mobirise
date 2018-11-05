@@ -54,7 +54,7 @@
       }
     ],
     "versionFirst": "4.7.8",
-    "uniqCompNum": 138,
+    "uniqCompNum": 142,
     "versionPublish": "4.7.8",
     "screenshot": "screenshot.png",
     "siteUrl": "https://fizioline.hu",
@@ -71,7 +71,7 @@
       "settings": {
         "meta_descr": "A sportsérülések 25 százaléka a bokaízületet érinti. A sérülés mechanizmusától függően a külső és/vagy belső oldali szalagok meghúzódnak, részlegesen vagy teljesen elszakadnak.\n\nKulcsszavak: rándulás, fájdalom, duzzanat, boka, bokaszalag,bokaficam",
         "title": "Bokaszalag sérülések, bokaficam",
-        "order": 8
+        "order": 9
       },
       "components": [
         {
@@ -573,7 +573,7 @@
       "settings": {
         "meta_descr": "Dr. Stephen Typaldos- a modell kitalálója megfigyelte, hogy a pácienseinek egy-egy panasz leírásakor, kivétel nélkül azonos volt a testbeszédük. Ennek alapján kidolgozott egy sajátos hatékony kezelési formát a Typaldos módszert, mely a fasciarendszer deformációját állítja helyre.\nKulcsszavak:fascia, fájdalom, mobilitás, stabilitás,deformitás, disztorzió",
         "title": "FDM",
-        "order": 11
+        "order": 12
       },
       "components": [
         {
@@ -1126,7 +1126,7 @@
       "settings": {
         "meta_descr": "Többek közt sportsérülések, ficamok, húzódások, túlfeszült, görcsös izmok, korlátozott ízületi mozgások, derék-, hát-, nyak- és fejfájások, gyulladásos tünetek – például tenisz- és golfkönyök -, gerincferdülés, idegbántalmak kezelésére, tartásjavításra, valamint a mozgásszervi műtéteket követő rehabilitáció során használhatjuk a tape-et.\n",
         "title": "Kinezio tape",
-        "order": 12
+        "order": 13
       },
       "components": [
         {
@@ -3176,7 +3176,7 @@
       "settings": {
         "meta_descr": "A vállfájdalmak kezelése, gyógytornája mindig egyénre szabott. A tünetektől függően, illetve a páciens terhelhetőségének megfelelően állítjuk össze a speciális gyakorlatsort.\nKulcsszavak: fájdalom, vállfájdalom, vállízületbe, ROK szakadása, vállficam, befagyott váll szindróma",
         "title": "Vállfájdalom",
-        "order": 2
+        "order": 3
       },
       "components": [
         {
@@ -3647,7 +3647,7 @@
       "settings": {
         "meta_descr": "Az alkar izmainak túlerőltetéséből adódóan, a könyök külső vagy belső felszínén begyullad a csonthártya, és ez okozza a fájdalmat. \nKulcsszavak: túlterhelés,könyök, begyullad a csonthártya, repetitív tevékenység",
         "title": "Teniszkönyök, Golfkönyök",
-        "order": 3
+        "order": 4
       },
       "components": [
         {
@@ -4118,7 +4118,7 @@
       "settings": {
         "meta_descr": "Nyakfájdalom leggyakoribb oka az izomfeszülésből adódó fájdalom amely főleg olyan foglalkozásoknál jelentkezik ahol a nyak, vállöv egész napos terhelést kap.\nKulcszsavak: akut, krónikus, fájdalom, izomfeszülés, porckorong, kisugárzó panasz, végtagzsibbadás",
         "title": "Nyaki fájdalom okai és kezelései",
-        "order": 4
+        "order": 5
       },
       "components": [
         {
@@ -4586,7 +4586,7 @@
       "settings": {
         "meta_descr": "A gerincferdülés (scoliosis), a gerincoszlop kóros oldalirányú elhajlását jelenti. Két csoportra oszthatjuk, az egyik a funkcionlis scoliosis, a másik az úgynevezett sturktúrális scoliosis.\nKulcsszavak: scoliosis, gerincferdülés, görbület, Cobb fok,  Schroth terápia",
         "title": "Gerincferdülés",
-        "order": 5
+        "order": 6
       },
       "components": [
         {
@@ -5060,7 +5060,7 @@
       "settings": {
         "meta_descr": "Deréktájra kiterjedő izomlázszerű fájdalom, ami a gerinc melletti izmok görcsös összehúzódásából adódik. Ennek jele, hogy az izmok nyomásra fájdalmasak, érzékenyek. A fájdalom nem sugárzik az alsó végtagokba.\n\nKulcsszavak: porckorongsérv, ischias, derékfájás, lumbágó",
         "title": "Derékfájás,lumbágó",
-        "order": 6
+        "order": 7
       },
       "components": [
         {
@@ -5534,7 +5534,7 @@
       "settings": {
         "meta_descr": "A három leggyakoribb probléma: a csípőízületi kopás (arthrosis), a nyáktömlő (bursa) gyulladása, piriformis (körte alakú izom) szindróma.\n\nKulcsszavak: arthrózis, bursitis,piriformis szindróma, gyógytorna,totál endoprotézis",
         "title": "Csípő fájdalom",
-        "order": 7
+        "order": 8
       },
       "components": [
         {
@@ -6066,7 +6066,7 @@
       "settings": {
         "meta_descr": " A perifériás idegmobilizáció, vagy más néven neurodinamika terápia, egy speciális fogásokat alkalmazó terápiás módszer, melynek célja a letapadt, becsípődött, nyomás alá került végtagi idegek (perifériás idegek) felszabadítása, az idegi eredetű fájdalom hatékony csillapítása, illetve megszüntetése.\n\nKulcsszavak:zsibbadás, fájdalom, izomgörcsök,ideggyulladás, idegmobilizáció",
         "title": "Perifériás idegmobilizáció (neurodinamika)",
-        "order": 9
+        "order": 10
       },
       "components": [
         {
@@ -6537,7 +6537,7 @@
       "settings": {
         "meta_descr": "A Dorn-manuálterápia világszerte egyre népszerűbb gerinckorrekciós módszer. A kezelés nem csupán tökéletesen biztonságos, de rendkívül hatékony is. Mindössze 2-3 alkalom után látványos javulás várható, legyen szó szinte bármilyen gerinc- vagy egyéb mozgásszervi problémáról. \n\nKulcsszavak: korrigál, gerincoszlop,gerincfájdalmak,lumbágó",
         "title": "Dorn terápia",
-        "order": 10
+        "order": 11
       },
       "components": [
         {
@@ -7053,7 +7053,7 @@
       "settings": {
         "meta_descr": "A Schroth terápia lényege, hogy elérjük a gerinc maximális aktív nyújtását, majd háromdimenziós légzéssel a törzset eredeti helyzetébe állítjuk. Ebben a testhelyzetben végzünk izomerősítő és nyújtó gyakorlatokat.\nKulcsszavak:gerincferdülés, görbületek csökkentése, tartásjavítás, Scheuermann-kór, helyes ülés, helyes állás",
         "title": "Schroth terápia",
-        "order": 13
+        "order": 14
       },
       "components": [
         {
@@ -7573,7 +7573,7 @@
       "settings": {
         "meta_descr": "A McKenzie módszer a gerincproblémák speciális vizsgálati és kezelési rendszere, melyet Robin McKenzie, új-zélandi gyógytornász dolgozott ki.A McKenzie terápia a gerincsérv gyógyítására alkalmas módszer, megelőzhető vele a gerinc műtét, a nyak és derék esetében. \nKulcsszavak: gerincsárv,porckorongsérv, derék, nyak,fájdalom csökkentése",
         "title": "McKenzie terápia",
-        "order": 14
+        "order": 15
       },
       "components": [
         {
@@ -8094,7 +8094,7 @@
       "settings": {
         "meta_descr": "Az izomerő növelésére, az ízületi mozgáshatárok terjedelmének fokozására, az izomgörcsök oldására, továbbá az izomaszimmetria kiküszöbölésére, a mozgáskoordináció javítására, illetve új mozgások tanulása céljából alkalmazzuk.\n\nKulcsszavak: gyógytorna,derékfájás, hanyagtartás, hátfájás, lúdtalp, csontritkulás, végtagba sugárzó fájdalom vagy zsibbadás, gerincsérv, és más mozgásszervi panaszok",
         "title": "Gyógytorna",
-        "order": 15
+        "order": 16
       },
       "components": [
         {
@@ -8610,7 +8610,7 @@
       "settings": {
         "meta_descr": "Babocsay Zsófia, Erdei ildikó",
         "title": "Munkatársak",
-        "order": 16
+        "order": 17
       },
       "components": [
         {
