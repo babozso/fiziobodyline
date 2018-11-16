@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "FizioBodyline",
-    "currentPage": "arak.html",
+    "currentPage": "derekfajaslumbago.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -54,7 +54,7 @@
       }
     ],
     "versionFirst": "4.7.8",
-    "uniqCompNum": 142,
+    "uniqCompNum": 154,
     "versionPublish": "4.7.8",
     "screenshot": "screenshot.png",
     "siteUrl": "https://fizioline.hu",
@@ -1673,7 +1673,7 @@
       "settings": {
         "main": true,
         "title": "Fiziobodyline",
-        "meta_descr": "Gyógytorna, Terápiák,McKenzie terápia, Idegmobilizáció, Dorn terápia, Schroth terápia",
+        "meta_descr": "Gyógytorna Budapest, 5. kerület Gyógytorna,McKenzie terápia, Idegmobilizáció, Manuálterápia, Schroth terápia,Craniosacrális terápia",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
@@ -2216,11 +2216,11 @@
           "_name": "content13",
           "_customHTML": "<section>\n    <mbr-parameters>\n        <input type=\"range\" inline title=\"Felső térköz\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"range\" inline title=\"Alsó térköz\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"range\" inline title=\"Szélesség\" name=\"contentWidth\" min=\"66\" max=\"100\" value=\"66\" step=\"1\">\n        <input type=\"range\" inline title=\"Méretek\" name=\"proportions\" min=\"30\" max=\"300\" value=\"214\" step=\"1\">\n        <input type=\"checkbox\" title=\"Felirat\" name=\"showCaption\">\n        <input type=\"color\" title=\"Felirat háttere\" name=\"cpBg\" value=\"#ffffff\">\n        <input type=\"color\" title=\"Háttérszín\" name=\"bgColor\" value=\"#f4f0c2\">\n    </mbr-parameters>\n    <div class=\"container\">\n            <div class=\"media-container-row\" mbr-style=\"{'width':contentWidth+'%'}\">\n                <div class=\"img-item item1\" mbr-style=\"{'width':proportions+'%'}\">\n                    <img src=\"@PROJECT_PATH@/assets/images/42280354-274755339679428-3767657831604420608-n-1-750x567.jpg\" alt=\"FizioBodyLine\" title=\"FizioBodyLine\">\n                    <div class=\"img-caption\" mbr-if=\"showCaption\">\n                        <p class=\"mbr-fonts-style align-center mbr-black\" mbr-theme-style=\"display-7\">\n                            Reszponzív\n                        </p>\n                    </div>\n                </div>\n                <div class=\"img-item\">\n                    <img src=\"@PROJECT_PATH@/assets/images/fiziobodyline-400x400tp-1-452x452.png\" alt=\"FizioBodyLine\" title=\"FizioBodyLine\">\n                    <div class=\"img-caption\" mbr-if=\"showCaption\">\n                        <p class=\"mbr-fonts-style align-center mbr-black\" mbr-theme-style=\"display-7\">\n                            Mobilbarát\n                        </p>\n                    </div>\n                </div>\n            </div>\n    </div>\n</section>",
           "_cid": "r8kcPQDr4K",
+          "_anchor": "content13-3t",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_anchor": "content13-3t"
+          "_params": {}
         },
         {
           "_styles": {
@@ -2624,7 +2624,7 @@
       "settings": {
         "meta_descr": "Web Maker Description",
         "title": "Árak",
-        "order": 1
+        "order": 2
       },
       "components": [
         {
