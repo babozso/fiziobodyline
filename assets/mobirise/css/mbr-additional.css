@@ -621,11 +621,8 @@ h6,
   color: #000000;
   font-size: 15px;
 }
-#form1-a .form-control-label {
-  color: #232323;
-}
-#form1-a .mbr-section-title {
-  font-size: 36px;
+#contacts2-c P {
+  text-align: left;
 }
 #menu-d .hide-buttons .nav-btn {
   display: none !important;
@@ -757,6 +754,9 @@ h6,
 #form1-n .mbr-section-title {
   font-size: 32px;
 }
+#contacts2-e P {
+  text-align: left;
+}
 #menu-g .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -836,6 +836,9 @@ h6,
 }
 #form1-o .mbr-section-title {
   font-size: 32px;
+}
+#contacts2-h P {
+  text-align: left;
 }
 #menu-u .hide-buttons .nav-btn {
   display: none !important;
@@ -938,6 +941,9 @@ h6,
 #form1-y .mbr-section-title {
   font-size: 32px;
 }
+#contacts2-v P {
+  text-align: left;
+}
 #menu-z .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -1019,6 +1025,9 @@ h6,
 }
 #form1-12 .form-control-label {
   color: #232323;
+}
+#contacts2-10 P {
+  text-align: left;
 }
 #menu-13 .hide-buttons .nav-btn {
   display: none !important;
@@ -1108,6 +1117,9 @@ h6,
 #form1-15 .mbr-section-title {
   font-size: 32px;
 }
+#contacts2-14 P {
+  text-align: left;
+}
 #menu-17 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -1196,6 +1208,9 @@ h6,
 #form1-19 .mbr-section-title {
   font-size: 32px;
 }
+#contacts2-18 P {
+  text-align: left;
+}
 #menu-1b .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -1282,6 +1297,9 @@ h6,
 }
 #form1-1e .mbr-section-title {
   font-size: 32px;
+}
+#contacts2-1c P {
+  text-align: left;
 }
 #menu-1g .hide-buttons .nav-btn {
   display: none !important;
@@ -1371,6 +1389,9 @@ h6,
 #form1-1i .mbr-section-title {
   font-size: 32px;
 }
+#contacts2-1h P {
+  text-align: left;
+}
 #menu-1l .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -1457,6 +1478,9 @@ h6,
 }
 #form1-1n .mbr-section-title {
   font-size: 32px;
+}
+#contacts2-1m P {
+  text-align: left;
 }
 #menu-1v .hide-buttons .nav-btn {
   display: none !important;
@@ -1549,6 +1573,9 @@ h6,
 }
 #header3-2f .mbr-section-title {
   font-size: 36px;
+}
+#contacts2-1w P {
+  text-align: left;
 }
 #menu-20 .hide-buttons .nav-btn {
   display: none !important;
@@ -1644,99 +1671,8 @@ h6,
 #header3-2e .mbr-section-title {
   font-size: 36px;
 }
-#menu-24 .hide-buttons .nav-btn {
-  display: none !important;
-}
-#menu-24 .navbar-caption {
-  color: #ffffff;
-}
-#menu-24 .navbar-toggler {
-  color: #28324e;
-}
-#menu-24 .close-icon::before,
-#menu-24 .close-icon::after {
-  background-color: #28324e;
-}
-#menu-24 .link,
-#menu-24 .dropdown-item {
-  color: #28324e;
-}
-#menu-24 .link {
-  font-size: 0.9rem;
-}
-#menu-24 .dropdown-item,
-#menu-24 .nav-dropdown-sm .link {
-  font-size: 0.975rem;
-}
-#menu-24 .link:hover,
-#menu-24 .dropdown-item:hover,
-#menu-24 .link:focus,
-#menu-24 .dropdown-item:focus {
-  color: #475577;
-}
-#menu-24 .link[aria-expanded="true"],
-#menu-24 .dropdown-menu {
-  background: #e6e6e6;
-}
-#menu-24 .nav-dropdown-sm .link:focus,
-#menu-24 .nav-dropdown-sm .link:hover,
-#menu-24 .nav-dropdown-sm .dropdown-item:focus,
-#menu-24 .nav-dropdown-sm .dropdown-item:hover {
-  background: #f7f7f7!important;
-}
-#menu-24 .navbar,
-#menu-24 .nav-dropdown-sm,
-#menu-24 .nav-dropdown-sm .link[aria-expanded="true"],
-#menu-24 .nav-dropdown-sm .dropdown-menu {
-  background: #ffffff;
-}
-#menu-24 .bg-color.transparent .link {
-  color: #28324e;
-  transition: none;
-}
-#menu-24 .bg-color.transparent.opened .link {
-  transition: color 0.2s ease-in-out;
-}
-#menu-24 .bg-color.transparent.opened .link:hover,
-#menu-24 .bg-color.transparent.opened .link:focus {
-  color: #475577;
-}
-#menu-24 .link[aria-expanded="true"],
-#menu-24 .dropdown-item[aria-expanded="true"] {
-  color: #475577!important;
-}
-#menu-24 .btn {
-  font-size: 14px;
-}
-#menu-24 A {
-  font-size: 15px;
-}
-#slider-26 P {
-  font-size: 18px;
-  color: #28324e;
-  text-align: center;
-}
-#slider-26 H2 {
-  font-size: 46px;
-  color: #28324e;
-  text-align: center;
-}
-#features7-27 .card-subtitle {
-  color: #bcbcbc;
-}
-#features7-27 .iconbox {
-  background-color: #475577;
-  border-color: #475577;
-}
-#features7-27 .card-subtitle B {
-  font-size: 36px;
-}
-#header3-2d .mbr-section-title,
-#header3-2d .mbr-section-subtitle {
-  text-align: center;
-}
-#header3-2d .mbr-section-title {
-  font-size: 36px;
+#contacts2-21 P {
+  text-align: left;
 }
 #menu-28 .hide-buttons .nav-btn {
   display: none !important;
@@ -1827,4 +1763,7 @@ h6,
 }
 #header3-2c .mbr-section-title {
   font-size: 36px;
+}
+#contacts2-29 P {
+  text-align: left;
 }

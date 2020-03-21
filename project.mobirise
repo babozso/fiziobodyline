@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Fizio2",
-    "currentPage": "index.html",
+    "currentPage": "page11.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -29,7 +29,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.8.10",
     "siteFonts": [],
-    "uniqCompNum": 88,
+    "uniqCompNum": 89,
     "versionPublish": "4.7.8",
     "screenshot": "screenshot.png",
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
@@ -451,7 +451,7 @@
             "columnsColor": "#7e9b9f",
             "paddingTop": 2,
             "paddingBottom": 2,
-            "columns": "3",
+            "columns": "2",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
@@ -928,66 +928,6 @@
         },
         {
           "_params": {
-            "showTitle": true,
-            "showSubTitle": true,
-            "labelsColor": "#232323",
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "title": "Bejelentkezés",
-          "subtitle": "24 órán belüli lemondás esetén a kezelés árát a következő alkalommal felszámoljuk, megértésüket köszönjük.",
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Elküldöm</a>",
-          "form": {
-            "action": "fiziobodyline@gmail.com",
-            "alerts": {
-              "success": "Köszönjük a jelentkezését, hamarosan felkeressük időpontegyeztetés céljából! \n\nA Fiziobodyline csapata"
-            },
-            "fields": {
-              "name": {
-                "visible": true,
-                "title": "Name",
-                "customTitle": "Név"
-              },
-              "email": {
-                "visible": false,
-                "title": "Email",
-                "customTitle": "Email"
-              },
-              "phone": {
-                "visible": true,
-                "title": "Phone",
-                "customTitle": "Telefonszám"
-              },
-              "message": {
-                "title": "Message",
-                "customTitle": "Választott kezelés és kezelő megnevezése."
-              }
-            }
-          },
-          "_tags": [
-            "Téma"
-          ],
-          "_name": "form1",
-          "_anchor": "form1-a",
-          "_styles": {
-            ".form-control-label": {
-              "color": "#232323"
-            },
-            ".mbr-section-title": {
-              "font-size": "36px"
-            }
-          }
-        },
-        {
-          "_params": {
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": false,
@@ -1005,13 +945,38 @@
               "stateDetails": ""
             }
           },
-          "text1": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\"><span style=\"font-size: 16px; letter-spacing: -1px;\"><b>Cím</b></span></font><br>1056 Budapest, Irányi utca 27.<br><br><br><br>\n<strong>Kapcsolat</strong><br>\nEmail: fiziobodyline@gmail.com<br><br><br>",
+          "text1": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\"><span style=\"font-size: 16px; letter-spacing: -1px;\"><b>Cím</b></span></font><br>1056 Budapest, Irányi utca 27.<br><br><br><br>\n<strong>Kapcsolat</strong><br>\nEmail: fiziobodyline@gmail.com<br><br><br><br><br>24 órán belüli lemondás esetén a kezelés árát a következő alkalommal felszámoljuk, megértésüket köszönjük.<br>",
           "text2": "<p class=\"mbr-contacts__text\"><strong>Kövess minket</strong></p><ul><li>facebook.com/fiziobodyline.hu</li></ul>",
           "_tags": [
             "Téma"
           ],
           "_name": "contacts2",
-          "_anchor": "contacts2-c"
+          "_anchor": "contacts2-c",
+          "_styles": {
+            "P": {
+              "text-align": "left"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#323232",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) 2018 FizioBodyline Minden jog fentratva.",
+          "_tags": [
+            "Téma"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-2g"
         }
       ]
     },
@@ -1384,13 +1349,18 @@
               "stateDetails": ""
             }
           },
-          "text1": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\"><span style=\"font-size: 16px; letter-spacing: -1px;\"><b>Cím</b></span></font><br>1056 Budapest, Irányi utca 27.<br><br><br><br>\n<strong>Kapcsolat</strong><br>\nEmail: fiziobodyline@gmail.com<br><br><br>",
+          "text1": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\"><span style=\"font-size: 16px; letter-spacing: -1px;\"><b>Cím</b></span></font><br>1056 Budapest, Irányi utca 27.<br><br><br><br>\n<strong>Kapcsolat</strong><br>\nEmail: fiziobodyline@gmail.com<br><br><br><br><br>24 órán belüli lemondás esetén a kezelés árát a következő alkalommal felszámoljuk, megértésüket köszönjük.<br>",
           "text2": "<p class=\"mbr-contacts__text\"><strong>Kövess minket</strong></p><ul><li>facebook.com/fiziobodyline.hu</li></ul>",
           "_tags": [
             "Téma"
           ],
           "_name": "contacts2",
-          "_anchor": "contacts2-e"
+          "_anchor": "contacts2-e",
+          "_styles": {
+            "P": {
+              "text-align": "left"
+            }
+          }
         }
       ]
     },
@@ -1720,13 +1690,18 @@
               "stateDetails": ""
             }
           },
-          "text1": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\"><span style=\"font-size: 16px; letter-spacing: -1px;\"><b>Cím</b></span></font><br>1056 Budapest, Irányi utca 27.<br><br><br><br>\n<strong>Kapcsolat</strong><br>\nEmail: fiziobodyline@gmail.com<br><br><br>",
+          "text1": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\"><span style=\"font-size: 16px; letter-spacing: -1px;\"><b>Cím</b></span></font><br>1056 Budapest, Irányi utca 27.<br><br><br><br>\n<strong>Kapcsolat</strong><br>\nEmail: fiziobodyline@gmail.com<br><br><br><br><br>24 órán belüli lemondás esetén a kezelés árát a következő alkalommal felszámoljuk, megértésüket köszönjük.<br>",
           "text2": "<p class=\"mbr-contacts__text\"><strong>Kövess minket</strong></p><ul><li>facebook.com/fiziobodyline.hu</li></ul>",
           "_tags": [
             "Téma"
           ],
           "_name": "contacts2",
-          "_anchor": "contacts2-h"
+          "_anchor": "contacts2-h",
+          "_styles": {
+            "P": {
+              "text-align": "left"
+            }
+          }
         }
       ]
     },
@@ -2169,13 +2144,18 @@
               "stateDetails": ""
             }
           },
-          "text1": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\"><span style=\"font-size: 16px; letter-spacing: -1px;\"><b>Cím</b></span></font><br>1056 Budapest, Irányi utca 27.<br><br><br><br>\n<strong>Kapcsolat</strong><br>\nEmail: fiziobodyline@gmail.com<br><br><br>",
+          "text1": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\"><span style=\"font-size: 16px; letter-spacing: -1px;\"><b>Cím</b></span></font><br>1056 Budapest, Irányi utca 27.<br><br><br><br>\n<strong>Kapcsolat</strong><br>\nEmail: fiziobodyline@gmail.com<br><br><br><br><br>24 órán belüli lemondás esetén a kezelés árát a következő alkalommal felszámoljuk, megértésüket köszönjük.<br>",
           "text2": "<p class=\"mbr-contacts__text\"><strong>Kövess minket</strong></p><ul><li>facebook.com/fiziobodyline.hu</li></ul>",
           "_tags": [
             "Téma"
           ],
           "_name": "contacts2",
-          "_anchor": "contacts2-v"
+          "_anchor": "contacts2-v",
+          "_styles": {
+            "P": {
+              "text-align": "left"
+            }
+          }
         }
       ]
     },
@@ -2398,13 +2378,18 @@
               "stateDetails": ""
             }
           },
-          "text1": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\"><span style=\"font-size: 16px; letter-spacing: -1px;\"><b>Cím</b></span></font><br>1056 Budapest, Irányi utca 27.<br><br><br><br>\n<strong>Kapcsolat</strong><br>\nEmail: fiziobodyline@gmail.com<br><br><br>",
+          "text1": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\"><span style=\"font-size: 16px; letter-spacing: -1px;\"><b>Cím</b></span></font><br>1056 Budapest, Irányi utca 27.<br><br><br><br>\n<strong>Kapcsolat</strong><br>\nEmail: fiziobodyline@gmail.com<br><br><br><br><br>24 órán belüli lemondás esetén a kezelés árát a következő alkalommal felszámoljuk, megértésüket köszönjük.<br>",
           "text2": "<p class=\"mbr-contacts__text\"><strong>Kövess minket</strong></p><ul><li>facebook.com/fiziobodyline.hu</li></ul>",
           "_tags": [
             "Téma"
           ],
           "_name": "contacts2",
-          "_anchor": "contacts2-10"
+          "_anchor": "contacts2-10",
+          "_styles": {
+            "P": {
+              "text-align": "left"
+            }
+          }
         }
       ]
     },
@@ -2699,13 +2684,18 @@
               "stateDetails": ""
             }
           },
-          "text1": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\"><span style=\"font-size: 16px; letter-spacing: -1px;\"><b>Cím</b></span></font><br>1056 Budapest, Irányi utca 27.<br><br><br><br>\n<strong>Kapcsolat</strong><br>\nEmail: fiziobodyline@gmail.com<br><br><br>",
+          "text1": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\"><span style=\"font-size: 16px; letter-spacing: -1px;\"><b>Cím</b></span></font><br>1056 Budapest, Irányi utca 27.<br><br><br><br>\n<strong>Kapcsolat</strong><br>\nEmail: fiziobodyline@gmail.com<br><br><br><br><br>24 órán belüli lemondás esetén a kezelés árát a következő alkalommal felszámoljuk, megértésüket köszönjük.<br>",
           "text2": "<p class=\"mbr-contacts__text\"><strong>Kövess minket</strong></p><ul><li>facebook.com/fiziobodyline.hu</li></ul>",
           "_tags": [
             "Téma"
           ],
           "_name": "contacts2",
-          "_anchor": "contacts2-14"
+          "_anchor": "contacts2-14",
+          "_styles": {
+            "P": {
+              "text-align": "left"
+            }
+          }
         }
       ]
     },
@@ -3018,13 +3008,18 @@
               "stateDetails": ""
             }
           },
-          "text1": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\"><span style=\"font-size: 16px; letter-spacing: -1px;\"><b>Cím</b></span></font><br>1056 Budapest, Irányi utca 27.<br><br><br><br>\n<strong>Kapcsolat</strong><br>\nEmail: fiziobodyline@gmail.com<br><br><br>",
+          "text1": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\"><span style=\"font-size: 16px; letter-spacing: -1px;\"><b>Cím</b></span></font><br>1056 Budapest, Irányi utca 27.<br><br><br><br>\n<strong>Kapcsolat</strong><br>\nEmail: fiziobodyline@gmail.com<br><br><br><br><br>24 órán belüli lemondás esetén a kezelés árát a következő alkalommal felszámoljuk, megértésüket köszönjük.<br>",
           "text2": "<p class=\"mbr-contacts__text\"><strong>Kövess minket</strong></p><ul><li>facebook.com/fiziobodyline.hu</li></ul>",
           "_tags": [
             "Téma"
           ],
           "_name": "contacts2",
-          "_anchor": "contacts2-18"
+          "_anchor": "contacts2-18",
+          "_styles": {
+            "P": {
+              "text-align": "left"
+            }
+          }
         }
       ]
     },
@@ -3302,13 +3297,18 @@
               "stateDetails": ""
             }
           },
-          "text1": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\"><span style=\"font-size: 16px; letter-spacing: -1px;\"><b>Cím</b></span></font><br>1056 Budapest, Irányi utca 27.<br><br><br><br>\n<strong>Kapcsolat</strong><br>\nEmail: fiziobodyline@gmail.com<br><br><br>",
+          "text1": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\"><span style=\"font-size: 16px; letter-spacing: -1px;\"><b>Cím</b></span></font><br>1056 Budapest, Irányi utca 27.<br><br><br><br>\n<strong>Kapcsolat</strong><br>\nEmail: fiziobodyline@gmail.com<br><br><br><br><br>24 órán belüli lemondás esetén a kezelés árát a következő alkalommal felszámoljuk, megértésüket köszönjük.<br>",
           "text2": "<p class=\"mbr-contacts__text\"><strong>Kövess minket</strong></p><ul><li>facebook.com/fiziobodyline.hu</li></ul>",
           "_tags": [
             "Téma"
           ],
           "_name": "contacts2",
-          "_anchor": "contacts2-1c"
+          "_anchor": "contacts2-1c",
+          "_styles": {
+            "P": {
+              "text-align": "left"
+            }
+          }
         }
       ]
     },
@@ -3604,13 +3604,18 @@
               "stateDetails": ""
             }
           },
-          "text1": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\"><span style=\"font-size: 16px; letter-spacing: -1px;\"><b>Cím</b></span></font><br>1056 Budapest, Irányi utca 27.<br><br><br><br>\n<strong>Kapcsolat</strong><br>\nEmail: fiziobodyline@gmail.com<br><br><br>",
+          "text1": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\"><span style=\"font-size: 16px; letter-spacing: -1px;\"><b>Cím</b></span></font><br>1056 Budapest, Irányi utca 27.<br><br><br><br>\n<strong>Kapcsolat</strong><br>\nEmail: fiziobodyline@gmail.com<br><br><br><br><br>24 órán belüli lemondás esetén a kezelés árát a következő alkalommal felszámoljuk, megértésüket köszönjük.<br>",
           "text2": "<p class=\"mbr-contacts__text\"><strong>Kövess minket</strong></p><ul><li>facebook.com/fiziobodyline.hu</li></ul>",
           "_tags": [
             "Téma"
           ],
           "_name": "contacts2",
-          "_anchor": "contacts2-1h"
+          "_anchor": "contacts2-1h",
+          "_styles": {
+            "P": {
+              "text-align": "left"
+            }
+          }
         }
       ]
     },
@@ -3886,13 +3891,18 @@
               "stateDetails": ""
             }
           },
-          "text1": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\"><span style=\"font-size: 16px; letter-spacing: -1px;\"><b>Cím</b></span></font><br>1056 Budapest, Irányi utca 27.<br><br><br><br>\n<strong>Kapcsolat</strong><br>\nEmail: fiziobodyline@gmail.com<br><br><br>",
+          "text1": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\"><span style=\"font-size: 16px; letter-spacing: -1px;\"><b>Cím</b></span></font><br>1056 Budapest, Irányi utca 27.<br><br><br><br>\n<strong>Kapcsolat</strong><br>\nEmail: fiziobodyline@gmail.com<br><br><br><br><br>24 órán belüli lemondás esetén a kezelés árát a következő alkalommal felszámoljuk, megértésüket köszönjük.<br>",
           "text2": "<p class=\"mbr-contacts__text\"><strong>Kövess minket</strong></p><ul><li>facebook.com/fiziobodyline.hu</li></ul>",
           "_tags": [
             "Téma"
           ],
           "_name": "contacts2",
-          "_anchor": "contacts2-1m"
+          "_anchor": "contacts2-1m",
+          "_styles": {
+            "P": {
+              "text-align": "left"
+            }
+          }
         }
       ]
     },
@@ -4219,13 +4229,18 @@
               "stateDetails": ""
             }
           },
-          "text1": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\"><span style=\"font-size: 16px; letter-spacing: -1px;\"><b>Cím</b></span></font><br>1056 Budapest, Irányi utca 27.<br><br><br><br>\n<strong>Kapcsolat</strong><br>\nEmail: fiziobodyline@gmail.com<br><br><br>",
+          "text1": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\"><span style=\"font-size: 16px; letter-spacing: -1px;\"><b>Cím</b></span></font><br>1056 Budapest, Irányi utca 27.<br><br><br><br>\n<strong>Kapcsolat</strong><br>\nEmail: fiziobodyline@gmail.com<br><br><br><br><br>24 órán belüli lemondás esetén a kezelés árát a következő alkalommal felszámoljuk, megértésüket köszönjük.<br>",
           "text2": "<p class=\"mbr-contacts__text\"><strong>Kövess minket</strong></p><ul><li>facebook.com/fiziobodyline.hu</li></ul>",
           "_tags": [
             "Téma"
           ],
           "_name": "contacts2",
-          "_anchor": "contacts2-1w"
+          "_anchor": "contacts2-1w",
+          "_styles": {
+            "P": {
+              "text-align": "left"
+            }
+          }
         }
       ]
     },
@@ -4485,13 +4500,13 @@
               "font-size": "36px"
             }
           },
-          "title1": "<a href=\"page3.html#msg-box8-x\" target=\"_blank\" class=\"text-black\">- 3D Scoliosis/Schroth terápia</a> \n<div>- THERABAND CLX™ \n</div><div>- Dorn terápia és Breuss maszzázs</div>",
+          "title1": "- Antomy trains- Strukturális Bodywork<br>&nbsp;<a href=\"page3.html#msg-box8-x\" target=\"_blank\" class=\"text-black\">- 3D Scoliosis/Schroth terápia</a> \n<div>- THERABAND CLX™ \n</div><div>- Dorn terápia és Breuss maszzázs</div>",
           "subtitle1": "",
           "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
           "title2": "<a href=\"page8.html#msg-box8-1j\" target=\"_blank\" class=\"text-black\">- Manuálterápia</a>\n<div><a href=\"page2.html#msg-box8-t\" target=\"_blank\" class=\"text-black\">- McKenzie terápia</a>\n</div><div><a href=\"page4.html#content5-11\" target=\"_blank\" class=\"text-black\">- Kinezio tape</a>&nbsp;</div>",
           "subtitle2": "<br><br><b><a href=\"tel:+36203346100\" class=\"text-black\">+36203346100</a></b>",
           "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
-          "title3": "<a href=\"page5.html#content8-16\" target=\"_blank\" class=\"text-black\">- FDM-Typaldos módszer</a>&nbsp;<div><a href=\"page6.html#msg-box8-1a\" target=\"_blank\" class=\"text-black\">- Perifériás idegmobilizáció</a>\n</div><div>-Intim torna</div>",
+          "title3": "<a href=\"page5.html#content8-16\" target=\"_blank\" class=\"text-black\">- FDM-Typaldos módszer</a>&nbsp;<div><a href=\"page6.html#msg-box8-1a\" target=\"_blank\" class=\"text-black\">- Perifériás idegmobilizáció</a>\n</div><div>- Triggerpont terápia</div><br><div><br></div>",
           "subtitle3": "",
           "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
           "title4": "Unlimited Sites",
@@ -4554,348 +4569,18 @@
               "stateDetails": ""
             }
           },
-          "text1": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\"><span style=\"font-size: 16px; letter-spacing: -1px;\"><b>Cím</b></span></font><br>1056 Budapest, Irányi utca 27.<br><br><br><br>\n<strong>Kapcsolat</strong><br>\nEmail: fiziobodyline@gmail.com<br><br><br>",
+          "text1": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\"><span style=\"font-size: 16px; letter-spacing: -1px;\"><b>Cím</b></span></font><br>1056 Budapest, Irányi utca 27.<br><br><br><br>\n<strong>Kapcsolat</strong><br>\nEmail: fiziobodyline@gmail.com<br><br><br><br><br>24 órán belüli lemondás esetén a kezelés árát a következő alkalommal felszámoljuk, megértésüket köszönjük.<br>",
           "text2": "<p class=\"mbr-contacts__text\"><strong>Kövess minket</strong></p><ul><li>facebook.com/fiziobodyline.hu</li></ul>",
           "_tags": [
             "Téma"
           ],
           "_name": "contacts2",
-          "_anchor": "contacts2-21"
-        }
-      ]
-    },
-    "page12.html": {
-      "settings": {
-        "meta_descr": "Web Page Creator Description",
-        "title": "Fehér-Hauser Szandra",
-        "order": 2
-      },
-      "components": [
-        {
-          "_styles": {
-            ".hide-buttons .nav-btn": {
-              "display": "none !important"
-            },
-            ".navbar-caption": {
-              "color": "#ffffff"
-            },
-            ".navbar-toggler": {
-              "color": "#28324e"
-            },
-            ".close-icon::before, .close-icon::after": {
-              "background-color": "#28324e"
-            },
-            ".link, .dropdown-item": {
-              "color": "#28324e"
-            },
-            ".link": {
-              "font-size": "0.9rem"
-            },
-            ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.975rem"
-            },
-            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#e6e6e6"
-            },
-            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#f7f7f7!important"
-            },
-            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#ffffff"
-            },
-            ".bg-color.transparent .link": {
-              "color": "#28324e",
-              "transition": "none"
-            },
-            ".bg-color.transparent.opened .link": {
-              "transition": "color .2s ease-in-out"
-            },
-            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#475577!important"
-            },
-            ".btn": {
-              "font-size": "14px"
-            },
-            "A": {
-              "font-size": "15px"
-            }
-          },
-          "_params": {
-            "logo": true,
-            "showBrand": false,
-            "hideButtons": false,
-            "sticky": true,
-            "collapsed": true,
-            "transparent": true,
-            "bgColor": "#ffffff",
-            "fontSize": "0.9",
-            "fontName": {},
-            "fontColor": "#28324e",
-            "fontHoverColor": "@primaryColor"
-          },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Szolgáltatások</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Gyógytorna</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html#msg-box8-t\" target=\"_blank\">McKenzie terápia</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html#msg-box8-x\" target=\"_blank\">Schroth terápia</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html#content5-11\" target=\"_blank\">Kinezio tape</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html#content8-16\" target=\"_blank\">FDM Typaldos módszer</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html#msg-box8-1a\" target=\"_blank\">Dorn terápia</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Perifériás idegmobilizáció</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html#msg-box8-1d\" target=\"_blank\">Craniosacralis terápia</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html#msg-box8-1j\" target=\"_blank\">Manuál terápia</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html#content5-1p\" target=\"_blank\">Stecco fasciamanipuláció</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://behindyourlife.hu\" target=\"_blank\">Access bars</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://behindyourlife.hu\" target=\"_blank\">Life coaching</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Munkatársak</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page11.html#slider-22\" aria-expanded=\"false\" target=\"_blank\">Babocsay Zsófia</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page13.html#slider-2a\" aria-expanded=\"false\" target=\"_blank\">Erdei Ildikó</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html#slider-1y\" aria-expanded=\"false\" target=\"_blank\">Geréby Fruzsina</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page12.html#slider-26\" aria-expanded=\"false\" target=\"_blank\">Fehér - Hauser Szandra</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://behindyourlife.hu\" aria-expanded=\"false\" target=\"_blank\">Babocsay Réka</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#pricing-table2-8\" aria-expanded=\"false\">Árak</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Blog</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"index.html#form1-a\" target=\"_blank\">BEJELENTKEZÉS</a></li>",
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/fiziobodyline-500x302-t-351x128.png",
-              "height": 128,
-              "alt": "Mobirise",
-              "link": "#top",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "linkInNewWindow": false,
-              "name": "mobirise",
-              "family": "MobiriseIcons",
-              "link": "https://mobirise.com",
-              "size": "80",
-              "color": ""
-            }
-          },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "_tags": [
-            "Téma"
-          ],
-          "_name": "menu",
-          "_anchor": "menu-24"
-        },
-        {
-          "_params": {
-            "autoplay": true,
-            "fullScreen": true,
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "showBullets": true,
-            "bgColor": "#fff",
-            "timeout": 5,
-            "slides": [
-              {
-                "image": "@PROJECT_PATH@/assets/images/mbr-4-1920x1280.jpg",
-                "active": true,
-                "showButtons": false,
-                "showText": true,
-                "showTitle": true,
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "title": "<br><br>Fehér-Hauser Szandra<br>",
-                "overlay": true,
-                "contentAlign": "center",
-                "text": "<br>Mindig fontos volt számomra más emberek segítése, állapotának javítása. Ennek hatására tanulmányaimat a Pécsi Tudományegyetem Egészségtudományi Karának Zalaegerszegi Képzési Központjában végeztem 2011.-ben. 2011 óta dolgozom gyógytornászként. Tapasztalataimat állami intézményben, illetve 2013-tól vállalkozóként szereztem a házi ápolás és a magán gyógytorna területén . \n<br>A szemléletem alapja, hogy minden ember egy eltérő valóság (bio-pszicho-szociális egység), és globális szemléletet igényel minden páciens, kronológiailag visszatekintve minden dologra, ami meghatározhatja a váz-, izom-, és fascia rendszerének az állapotát.<br><br>&nbsp;",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
-                "overlayOpacity": "0.7",
-                "overlayColor": "#ffffff"
-              }
-            ]
-          },
-          "articleLayout": false,
-          "_tags": [
-            "Téma"
-          ],
-          "_name": "slider",
-          "_anchor": "slider-26",
+          "_anchor": "contacts2-21",
           "_styles": {
             "P": {
-              "font-size": "18px",
-              "color": "#28324e",
-              "text-align": "center"
-            },
-            "H2": {
-              "font-size": "46px",
-              "color": "#28324e",
-              "text-align": "center"
+              "text-align": "left"
             }
           }
-        },
-        {
-          "_inherit": "features4",
-          "_params": {
-            "showImages": false,
-            "showTitles": true,
-            "showSubtitles": false,
-            "ShowTexts": false,
-            "showButtons": false,
-            "iconsBgColor": "@primaryColor",
-            "paddingTop": 2,
-            "paddingBottom": "1",
-            "columns": "2",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#ffffff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "media1": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-features7",
-              "name": "phone",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#fff",
-              "family": "et-line"
-            }
-          },
-          "media2": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-features7",
-              "name": "edit",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#fff",
-              "family": "et-line"
-            }
-          },
-          "media3": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-features7",
-              "name": "briefcase",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#fff",
-              "family": "et-line"
-            }
-          },
-          "media4": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-features7",
-              "name": "linegraph",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#fff",
-              "family": "et-line"
-            }
-          },
-          "media5": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-features7",
-              "name": "linegraph",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#fff",
-              "family": "et-line"
-            }
-          },
-          "media6": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-features7",
-              "name": "linegraph",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#fff",
-              "family": "et-line"
-            }
-          },
-          "_tags": [
-            "Téma"
-          ],
-          "_styles": {
-            ".card-subtitle": {
-              "color": "#bcbcbc"
-            },
-            ".iconbox": {
-              "background-color": "@primaryColor",
-              "border-color": "@primaryColor"
-            },
-            ".card-subtitle B": {
-              "font-size": "36px"
-            }
-          },
-          "title1": "<a href=\"page9.html#content5-1p\" target=\"_blank\" class=\"text-black\">–\tStecco -féle fascia manipulációs modell</a> \n<div><a href=\"page4.html#content5-11\" target=\"_blank\" class=\"text-black\">–\tK- active kinesio tape kezdő és haladó&nbsp;</a></div>",
-          "subtitle1": "",
-          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
-          "title2": "–\tLoveYourBelly módszer\n<div>–\tFitball a fizioterápiában és a fitnessben</div><div>&nbsp;<a href=\"page7.html#msg-box8-1d\" target=\"_blank\" class=\"text-black\">–\tCraniosacralis terápia&nbsp;</a></div>",
-          "subtitle2": "<br><br><b><a href=\"tel:+36306078140\" class=\"text-black\">+36306078140</a></b>",
-          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
-          "title3": "–\tLoveYourBelly módszer \n<div>–\tFitball a fizioterápiában és a fitnessben&nbsp;</div>",
-          "subtitle3": "",
-          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
-          "title4": "Unlimited Sites",
-          "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
-          "title5": "Trendy Website Blocks",
-          "subtitle5": "Choose from the large selection of blocks",
-          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-          "title6": "Host Anywhere",
-          "subtitle6": "Don't limit yourself to just one platform",
-          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "_name": "features7",
-          "_anchor": "features7-27"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            },
-            ".mbr-section-title": {
-              "font-size": "36px"
-            }
-          },
-          "_params": {
-            "showMeta": false,
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "title": "<a href=\"tel:+36306078140\" class=\"text-black\">+36306078140</a>",
-          "meta": "",
-          "_tags": [
-            "Téma"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-2d"
-        },
-        {
-          "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#2e2e2e",
-            "overlay": true,
-            "overlayColor": "#3C3C3C",
-            "overlayOpacity": 0.8,
-            "googleMap": {
-              "address": "1056 Budapest irányi utca 27",
-              "placeId": "ChIJyyObQkTcQUcRNL292g7pjpo",
-              "state": "ok",
-              "stateDetails": ""
-            }
-          },
-          "text1": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\"><span style=\"font-size: 16px; letter-spacing: -1px;\"><b>Cím</b></span></font><br>1056 Budapest, Irányi utca 27.<br><br><br><br>\n<strong>Kapcsolat</strong><br>\nEmail: fiziobodyline@gmail.com<br><br><br>",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>Kövess minket</strong></p><ul><li>facebook.com/fiziobodyline.hu</li></ul>",
-          "_tags": [
-            "Téma"
-          ],
-          "_name": "contacts2",
-          "_anchor": "contacts2-25"
         }
       ]
     },
@@ -5220,13 +4905,18 @@
               "stateDetails": ""
             }
           },
-          "text1": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\"><span style=\"font-size: 16px; letter-spacing: -1px;\"><b>Cím</b></span></font><br>1056 Budapest, Irányi utca 27.<br><br><br><br>\n<strong>Kapcsolat</strong><br>\nEmail: fiziobodyline@gmail.com<br><br><br>",
+          "text1": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\"><span style=\"font-size: 16px; letter-spacing: -1px;\"><b>Cím</b></span></font><br>1056 Budapest, Irányi utca 27.<br><br><br><br>\n<strong>Kapcsolat</strong><br>\nEmail: fiziobodyline@gmail.com<br><br><br><br><br>24 órán belüli lemondás esetén a kezelés árát a következő alkalommal felszámoljuk, megértésüket köszönjük.<br>",
           "text2": "<p class=\"mbr-contacts__text\"><strong>Kövess minket</strong></p><ul><li>facebook.com/fiziobodyline.hu</li></ul>",
           "_tags": [
             "Téma"
           ],
           "_name": "contacts2",
-          "_anchor": "contacts2-29"
+          "_anchor": "contacts2-29",
+          "_styles": {
+            "P": {
+              "text-align": "left"
+            }
+          }
         }
       ]
     }
