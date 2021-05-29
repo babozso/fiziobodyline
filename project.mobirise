@@ -527,7 +527,7 @@
           "caption1": "- Állapotfelmérés\n<br>- Gerinctréning, tartásjavítás\n<br>- Core tréning\n<br>- Preventív funkcionális edzés\n<br>- Sportsérülés utáni rehabilitáció\n<br>- Passzív kimozgatás, fascia lazítás \n<br>-Hórusz masszázs – dinamikus testkezelés\n<br>- Kinezio tape, flossing, triggerpont terápia, sportköpöly<br>",
           "title2": "<a href=\"babocsayzsofia.html\" class=\"text-black\">Babocsay Zsófia</a>",
           "subtitle2": "<a href=\"tel:+36203346100\" class=\"text-black\">+36203346100</a>",
-          "caption2": "- Gyógytornász-fizioterapeuta\n<br>- Manuálterápia \n<br>- McKenzie terápia \n<br>- Kinezio tape \n<br>- 3D Scoliosis/Schroth terápia \n<br>- THERABAND CLX™ \n<br>- Dorn terápia és Breuss maszzázs \n<br>- FDM-Typaldos módszer (Fascia Disztorziós Modell) \n<br>- Perifériás idegmobilizáció \n<br>-Anatomy Trains",
+          "caption2": "- Gyógytornász-fizioterapeuta\n<br>-Barvicsenko Manuálterápia \n<br>- McKenzie terápia \n<br>- Kinezio tape \n<br>- 3D Scoliosis/Schroth terápia \n<br>- THERABAND CLX™ \n<br>- Dorn terápia és Breuss maszzázs \n<br>- FDM-Typaldos módszer I.,II,III. (Fascia Disztorziós Modell) \n<br>- Perifériás idegmobilizáció \n<br>-Anatomy Trains",
           "title3": "<a href=\"rostamelinda.html\" class=\"text-black\">Rosta Melinda</a>",
           "subtitle3": "<a href=\"tel:+36705502325\" class=\"text-black\">+36705502325</a>",
           "caption3": "- Manuálterápia<br>- McKenzie módszer<br>- 3D Scoliosis terápia<br>- Triggerpontterápia<br>- Lágyrészmanuálterápia<br>- Kinesio-Tape<br>-Neurodinamika<br>-Funkcionális tréning<br>- 3D Yoga<br>- Hamilton féle nyaki és ágyi gerinc stabilizáció<br>- Terrie izületi és lágyrész mobilizáció,&nbsp;",
@@ -587,7 +587,7 @@
             "columnsColor": "#ffffff",
             "paddingTop": "1",
             "paddingBottom": 2,
-            "columns": "2",
+            "columns": "3",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
@@ -625,7 +625,7 @@
           },
           "media3": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
+              "src": "@PROJECT_PATH@/assets/images/coworkers.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true
@@ -791,7 +791,7 @@
             "Téma"
           ],
           "title": "Árak<br>",
-          "subtitle": "24 órán belüli lemondás esetén a kezelés árát a következő alkalommal felszámoljuk, megértésüket köszönjük.<br><br><b>Tájékoztatjuk kedves Pácienseinket, hogy kezelési díjaink 2021. június 1-től változnak.</b><br><b>Szolgáltatásainkra az alábbi díjszabás érvéyes:<br></b><br>",
+          "subtitle": "24 órán belüli lemondás esetén a kezelés árát a következő alkalommal felszámoljuk, megértésüket köszönjük.<br><b><br></b><br>",
           "title1": "Első alkalom",
           "title2": "Kezelések",
           "title3": "Manuális kezelések&nbsp;",
@@ -809,8 +809,8 @@
           "currency3": "&nbsp;",
           "currency4": "&nbsp; &nbsp; 15.000 Ft",
           "price1": "18.000 Ft",
-          "price2": "9.000 Ft",
-          "price3": "15.000",
+          "price2": "8.000",
+          "price3": "13.000",
           "price4": "&nbsp;",
           "period1": "&nbsp;",
           "period2": "&nbsp;",
