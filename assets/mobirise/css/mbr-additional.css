@@ -627,100 +627,6 @@ h6,
 #contacts2-c P {
   text-align: left;
 }
-#menu-28 .hide-buttons .nav-btn {
-  display: none !important;
-}
-#menu-28 .navbar-caption {
-  color: #ffffff;
-}
-#menu-28 .navbar-toggler {
-  color: #28324e;
-}
-#menu-28 .close-icon::before,
-#menu-28 .close-icon::after {
-  background-color: #28324e;
-}
-#menu-28 .link,
-#menu-28 .dropdown-item {
-  color: #28324e;
-}
-#menu-28 .link {
-  font-size: 0.9rem;
-}
-#menu-28 .dropdown-item,
-#menu-28 .nav-dropdown-sm .link {
-  font-size: 0.975rem;
-}
-#menu-28 .link:hover,
-#menu-28 .dropdown-item:hover,
-#menu-28 .link:focus,
-#menu-28 .dropdown-item:focus {
-  color: #475577;
-}
-#menu-28 .link[aria-expanded="true"],
-#menu-28 .dropdown-menu {
-  background: #e6e6e6;
-}
-#menu-28 .nav-dropdown-sm .link:focus,
-#menu-28 .nav-dropdown-sm .link:hover,
-#menu-28 .nav-dropdown-sm .dropdown-item:focus,
-#menu-28 .nav-dropdown-sm .dropdown-item:hover {
-  background: #f7f7f7!important;
-}
-#menu-28 .navbar,
-#menu-28 .nav-dropdown-sm,
-#menu-28 .nav-dropdown-sm .link[aria-expanded="true"],
-#menu-28 .nav-dropdown-sm .dropdown-menu {
-  background: #ffffff;
-}
-#menu-28 .bg-color.transparent .link {
-  color: #28324e;
-  transition: none;
-}
-#menu-28 .bg-color.transparent.opened .link {
-  transition: color 0.2s ease-in-out;
-}
-#menu-28 .bg-color.transparent.opened .link:hover,
-#menu-28 .bg-color.transparent.opened .link:focus {
-  color: #475577;
-}
-#menu-28 .link[aria-expanded="true"],
-#menu-28 .dropdown-item[aria-expanded="true"] {
-  color: #475577!important;
-}
-#menu-28 .btn {
-  font-size: 14px;
-}
-#menu-28 A {
-  font-size: 15px;
-}
-#slider-2a P {
-  font-size: 15px;
-  color: #28324e;
-  text-align: left;
-}
-#slider-2a H2 {
-  font-size: 60px;
-  color: #28324e;
-}
-#features7-2b .card-subtitle {
-  color: #000000;
-  font-size: 36px;
-}
-#features7-2b .iconbox {
-  background-color: #475577;
-  border-color: #475577;
-}
-#header3-2c .mbr-section-title,
-#header3-2c .mbr-section-subtitle {
-  text-align: center;
-}
-#header3-2c .mbr-section-title {
-  font-size: 36px;
-}
-#contacts2-29 P {
-  text-align: left;
-}
 #menu-20 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -2049,5 +1955,99 @@ h6,
   font-size: 15px;
 }
 #contacts2-2z P {
+  text-align: left;
+}
+#menu-28 .hide-buttons .nav-btn {
+  display: none !important;
+}
+#menu-28 .navbar-caption {
+  color: #ffffff;
+}
+#menu-28 .navbar-toggler {
+  color: #28324e;
+}
+#menu-28 .close-icon::before,
+#menu-28 .close-icon::after {
+  background-color: #28324e;
+}
+#menu-28 .link,
+#menu-28 .dropdown-item {
+  color: #28324e;
+}
+#menu-28 .link {
+  font-size: 0.9rem;
+}
+#menu-28 .dropdown-item,
+#menu-28 .nav-dropdown-sm .link {
+  font-size: 0.975rem;
+}
+#menu-28 .link:hover,
+#menu-28 .dropdown-item:hover,
+#menu-28 .link:focus,
+#menu-28 .dropdown-item:focus {
+  color: #475577;
+}
+#menu-28 .link[aria-expanded="true"],
+#menu-28 .dropdown-menu {
+  background: #e6e6e6;
+}
+#menu-28 .nav-dropdown-sm .link:focus,
+#menu-28 .nav-dropdown-sm .link:hover,
+#menu-28 .nav-dropdown-sm .dropdown-item:focus,
+#menu-28 .nav-dropdown-sm .dropdown-item:hover {
+  background: #f7f7f7!important;
+}
+#menu-28 .navbar,
+#menu-28 .nav-dropdown-sm,
+#menu-28 .nav-dropdown-sm .link[aria-expanded="true"],
+#menu-28 .nav-dropdown-sm .dropdown-menu {
+  background: #ffffff;
+}
+#menu-28 .bg-color.transparent .link {
+  color: #28324e;
+  transition: none;
+}
+#menu-28 .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#menu-28 .bg-color.transparent.opened .link:hover,
+#menu-28 .bg-color.transparent.opened .link:focus {
+  color: #475577;
+}
+#menu-28 .link[aria-expanded="true"],
+#menu-28 .dropdown-item[aria-expanded="true"] {
+  color: #475577!important;
+}
+#menu-28 .btn {
+  font-size: 14px;
+}
+#menu-28 A {
+  font-size: 15px;
+}
+#slider-2a P {
+  font-size: 15px;
+  color: #28324e;
+  text-align: left;
+}
+#slider-2a H2 {
+  font-size: 60px;
+  color: #28324e;
+}
+#features7-2b .card-subtitle {
+  color: #000000;
+  font-size: 36px;
+}
+#features7-2b .iconbox {
+  background-color: #475577;
+  border-color: #475577;
+}
+#header3-2c .mbr-section-title,
+#header3-2c .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-2c .mbr-section-title {
+  font-size: 36px;
+}
+#contacts2-29 P {
   text-align: left;
 }
