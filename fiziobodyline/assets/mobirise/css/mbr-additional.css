@@ -620,10 +620,6 @@ h6,
 #pricing-table2-8 .mbr-section__container .mbr-section-title {
   font-size: 46px;
 }
-#testimonials4-9 .card-block P {
-  color: #000000;
-  font-size: 15px;
-}
 #contacts2-c P {
   text-align: left;
 }
@@ -819,96 +815,6 @@ h6,
 #contacts2-1w P {
   text-align: left;
 }
-#menu-1l .hide-buttons .nav-btn {
-  display: none !important;
-}
-#menu-1l .navbar-caption {
-  color: #ffffff;
-}
-#menu-1l .navbar-toggler {
-  color: #28324e;
-}
-#menu-1l .close-icon::before,
-#menu-1l .close-icon::after {
-  background-color: #28324e;
-}
-#menu-1l .link,
-#menu-1l .dropdown-item {
-  color: #28324e;
-}
-#menu-1l .link {
-  font-size: 0.9rem;
-}
-#menu-1l .dropdown-item,
-#menu-1l .nav-dropdown-sm .link {
-  font-size: 0.975rem;
-}
-#menu-1l .link:hover,
-#menu-1l .dropdown-item:hover,
-#menu-1l .link:focus,
-#menu-1l .dropdown-item:focus {
-  color: #475577;
-}
-#menu-1l .link[aria-expanded="true"],
-#menu-1l .dropdown-menu {
-  background: #e6e6e6;
-}
-#menu-1l .nav-dropdown-sm .link:focus,
-#menu-1l .nav-dropdown-sm .link:hover,
-#menu-1l .nav-dropdown-sm .dropdown-item:focus,
-#menu-1l .nav-dropdown-sm .dropdown-item:hover {
-  background: #f7f7f7!important;
-}
-#menu-1l .navbar,
-#menu-1l .nav-dropdown-sm,
-#menu-1l .nav-dropdown-sm .link[aria-expanded="true"],
-#menu-1l .nav-dropdown-sm .dropdown-menu {
-  background: #ffffff;
-}
-#menu-1l .bg-color.transparent .link {
-  color: #28324e;
-  transition: none;
-}
-#menu-1l .bg-color.transparent.opened .link {
-  transition: color 0.2s ease-in-out;
-}
-#menu-1l .bg-color.transparent.opened .link:hover,
-#menu-1l .bg-color.transparent.opened .link:focus {
-  color: #475577;
-}
-#menu-1l .link[aria-expanded="true"],
-#menu-1l .dropdown-item[aria-expanded="true"] {
-  color: #475577!important;
-}
-#menu-1l .btn {
-  font-size: 14px;
-}
-#menu-1l A {
-  font-size: 15px;
-}
-#content5-1p .mbr-section-title,
-#content5-1p p {
-  color: #fff;
-}
-#content5-1p P {
-  color: #000000;
-}
-#content5-1p .mbr-section-title {
-  color: #28324e;
-  font-size: 32px;
-}
-#testimonials1-1o .mbr-section-title {
-  font-size: 32px;
-}
-#form1-1n .form-control-label {
-  color: #232323;
-}
-#form1-1n .mbr-section-title {
-  font-size: 32px;
-}
-#contacts2-1m P {
-  text-align: left;
-}
 #menu-1g .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -998,96 +904,6 @@ h6,
   font-size: 32px;
 }
 #contacts2-1h P {
-  text-align: left;
-}
-#menu-1b .hide-buttons .nav-btn {
-  display: none !important;
-}
-#menu-1b .navbar-caption {
-  color: #ffffff;
-}
-#menu-1b .navbar-toggler {
-  color: #28324e;
-}
-#menu-1b .close-icon::before,
-#menu-1b .close-icon::after {
-  background-color: #28324e;
-}
-#menu-1b .link,
-#menu-1b .dropdown-item {
-  color: #28324e;
-}
-#menu-1b .link {
-  font-size: 0.9rem;
-}
-#menu-1b .dropdown-item,
-#menu-1b .nav-dropdown-sm .link {
-  font-size: 0.975rem;
-}
-#menu-1b .link:hover,
-#menu-1b .dropdown-item:hover,
-#menu-1b .link:focus,
-#menu-1b .dropdown-item:focus {
-  color: #475577;
-}
-#menu-1b .link[aria-expanded="true"],
-#menu-1b .dropdown-menu {
-  background: #e6e6e6;
-}
-#menu-1b .nav-dropdown-sm .link:focus,
-#menu-1b .nav-dropdown-sm .link:hover,
-#menu-1b .nav-dropdown-sm .dropdown-item:focus,
-#menu-1b .nav-dropdown-sm .dropdown-item:hover {
-  background: #f7f7f7!important;
-}
-#menu-1b .navbar,
-#menu-1b .nav-dropdown-sm,
-#menu-1b .nav-dropdown-sm .link[aria-expanded="true"],
-#menu-1b .nav-dropdown-sm .dropdown-menu {
-  background: #ffffff;
-}
-#menu-1b .bg-color.transparent .link {
-  color: #28324e;
-  transition: none;
-}
-#menu-1b .bg-color.transparent.opened .link {
-  transition: color 0.2s ease-in-out;
-}
-#menu-1b .bg-color.transparent.opened .link:hover,
-#menu-1b .bg-color.transparent.opened .link:focus {
-  color: #475577;
-}
-#menu-1b .link[aria-expanded="true"],
-#menu-1b .dropdown-item[aria-expanded="true"] {
-  color: #475577!important;
-}
-#menu-1b .btn {
-  font-size: 14px;
-}
-#menu-1b A {
-  font-size: 15px;
-}
-#msg-box8-1d .mbr-section-title,
-#msg-box8-1d p {
-  color: #fff;
-}
-#msg-box8-1d .mbr-section-title {
-  color: #000000;
-  font-size: 36px;
-}
-#msg-box8-1d .lead P {
-  color: #000000;
-}
-#testimonials1-1q .mbr-section-title {
-  font-size: 32px;
-}
-#form1-1e .form-control-label {
-  color: #232323;
-}
-#form1-1e .mbr-section-title {
-  font-size: 32px;
-}
-#contacts2-1c P {
   text-align: left;
 }
 #menu-17 .hide-buttons .nav-btn {
@@ -2049,5 +1865,79 @@ h6,
   font-size: 36px;
 }
 #contacts2-29 P {
+  text-align: left;
+}
+#msg-box6-39 .mbr-section-title,
+#msg-box6-39 .lead p {
+  color: #fff;
+}
+#menu-36 .hide-buttons .nav-btn {
+  display: none !important;
+}
+#menu-36 .navbar-caption {
+  color: #ffffff;
+}
+#menu-36 .navbar-toggler {
+  color: #28324e;
+}
+#menu-36 .close-icon::before,
+#menu-36 .close-icon::after {
+  background-color: #28324e;
+}
+#menu-36 .link,
+#menu-36 .dropdown-item {
+  color: #28324e;
+}
+#menu-36 .link {
+  font-size: 0.9rem;
+}
+#menu-36 .dropdown-item,
+#menu-36 .nav-dropdown-sm .link {
+  font-size: 0.975rem;
+}
+#menu-36 .link:hover,
+#menu-36 .dropdown-item:hover,
+#menu-36 .link:focus,
+#menu-36 .dropdown-item:focus {
+  color: #475577;
+}
+#menu-36 .link[aria-expanded="true"],
+#menu-36 .dropdown-menu {
+  background: #e6e6e6;
+}
+#menu-36 .nav-dropdown-sm .link:focus,
+#menu-36 .nav-dropdown-sm .link:hover,
+#menu-36 .nav-dropdown-sm .dropdown-item:focus,
+#menu-36 .nav-dropdown-sm .dropdown-item:hover {
+  background: #f7f7f7!important;
+}
+#menu-36 .navbar,
+#menu-36 .nav-dropdown-sm,
+#menu-36 .nav-dropdown-sm .link[aria-expanded="true"],
+#menu-36 .nav-dropdown-sm .dropdown-menu {
+  background: #ffffff;
+}
+#menu-36 .bg-color.transparent .link {
+  color: #28324e;
+  transition: none;
+}
+#menu-36 .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#menu-36 .bg-color.transparent.opened .link:hover,
+#menu-36 .bg-color.transparent.opened .link:focus {
+  color: #475577;
+}
+#menu-36 .link[aria-expanded="true"],
+#menu-36 .dropdown-item[aria-expanded="true"] {
+  color: #475577!important;
+}
+#menu-36 .btn {
+  font-size: 14px;
+}
+#menu-36 A {
+  font-size: 15px;
+}
+#contacts2-37 P {
   text-align: left;
 }
