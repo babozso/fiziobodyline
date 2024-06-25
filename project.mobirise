@@ -603,12 +603,12 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/bb238e1e-777f-4304-ab97-060e9bdb1db9-1-600x825.jpg",
+              "src": "@PROJECT_PATH@/assets/images/bb238e1e-777f-4304-ab97-060e9bdb1db9-2-600x825.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
               "link": "",
-              "alt": "",
+              "alt": "Geréby Fruzsi",
               "title": ""
             }
           },
