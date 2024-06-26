@@ -603,7 +603,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/bb238e1e-777f-4304-ab97-060e9bdb1db9-2-600x825.jpg",
+              "src": "@PROJECT_PATH@/assets/images/bb238e1e-777f-4304-ab97-060e9bdb1db9-600x825.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -5055,7 +5055,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/nvtelen-346x464.png",
+              "src": "@PROJECT_PATH@/assets/images/nvtelen-346x4641.png",
               "link": "",
               "alt": "",
               "title": ""
