@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Fizio2",
-    "currentPage": "index.html",
+    "currentPage": "farkasslilla.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -4800,7 +4800,7 @@
                 "title": "<br><br>Farkass Lilla<br><br><br>",
                 "overlay": true,
                 "contentAlign": "center",
-                "text": "Farkass Lilla \n<br>Gyógytornász-fizioterapeuta BSc, manuálterapeuta, TestSzobrász®- Strukturális Integrátor \n<br>Munkámban igyekszem az embert, akivel dolgozom, egészben látni és vizsgálni. Értékes számomra a teljes, személyes figyelemmel való jelenlét és elmélyült munka. Célom az, hogy a hozzám forduló emberrel és közösen dolgozzunk, ezen folyamat során felismerjük, hogy melyek lehetnek azok a faktorok, amelyek szerepet játszanak kialakult állapotaiban. \n<br>Kompetenciáim ezen tényezők közül, nagyrészt a kötőszöveti (fascia) munka, különféle izom- izületi manuálterápiás fogások, célzott mozgások, gyakorlatok, más fizioterápiás eszközök, és az életmódbeli változtatásokra tett javaslatokra terjednek ki.\n<br>Ezekkel a témákkal foglalkozom: \n<br>Fájdalomszindrómák, manuál- és mozgásterápiás menedzselése\n<br>Állkapocsízületi manuálterápia (CMD)\n<br>ergonómikus testhelyzetek és egészségtudatos testmozgás edukációja \n<br>Testtartás- és testtudatfejlesztés\n<br>Gyógytornász-fizioterapeuta BSc-t 2015-ben végeztem el a Semmelweis Egyetem Egészségtudományi Karán. Kezdetben kórházi rehabilitációs osztályon, majd a II. kerületi  szakrendelőben nagyrészt reumatológia, ortopéd- traumatológiai területén végzett gyógytornász munka tapasztalataival egyidőben, szakmai és személyes érdeklődésem a “hands-on”, tehát kézzel végzett, érintésen alapuló technikák felé vezetett. Elsőnek ezek közül a Semmelweis Egyetem ÁOK által akkreditált manuálterapeuta képzettséget szereztem meg. 2021 óta magánpraxis keretében folytatja tevékenységem, Úgy érzem ezzel tudok megfelelő időt, egyéni figyelmet és teret biztosítani a mélyebb megértéseknek és változásoknak. Folyamatos igyekszem gazdagítani a szemléletem és technikáim. 2023 óta a TestSzobrászat®, testtartás és testtudat fejlesztőmódszer kezeléssorozatai is munkám fontos részét képezik.&nbsp;<br>",
+                "text": "<b>Farkas Lilla</b><br>Gyógytornász-fizioterapeuta BSc, manuálterapeuta, TestSzobrász®- Strukturális Integrátor<br><br> \n<br><b>Munkámban igyekszem az embert, akivel dolgozom, egészben látni és vizsgálni. Értékes számomra a teljes, személyes figyelemmel való jelenlét és elmélyült munka. Célom az, hogy a hozzám forduló emberrel és közösen dolgozzunk, ezen folyamat során felismerjük, hogy melyek lehetnek azok a faktorok, amelyek szerepet játszanak kialakult állapotaiban. </b><br><b>\n</b><br><b>Kompetenciáim ezen tényezők közül, nagyrészt a kötőszöveti (fascia) munka, különféle izom- izületi manuálterápiás fogások, célzott mozgások, gyakorlatok, más fizioterápiás eszközök, és az életmódbeli változtatásokra tett javaslatokra terjednek ki.\n</b><br><b><br></b><br><b>Ezekkel a témákkal foglalkozom: <br></b>\n<br>- Fájdalomszindrómák, manuál- és mozgásterápiás menedzselése\n<br>- Állkapocsízületi manuálterápia (CMD)\n<br>- ergonómikus testhelyzetek és egészségtudatos testmozgás edukációja \n<br>- Testtartás- és testtudatfejlesztés\n<br><br>Gyógytornász-fizioterapeuta BSc-t 2015-ben végeztem el a Semmelweis Egyetem Egészségtudományi Karán. Kezdetben kórházi rehabilitációs osztályon, majd a II. kerületi  szakrendelőben nagyrészt reumatológia, ortopéd- traumatológiai területén végzett gyógytornász munka tapasztalataival egyidőben, szakmai és személyes érdeklődésem a “hands-on”, tehát kézzel végzett, érintésen alapuló technikák felé vezetett. Elsőnek ezek közül a Semmelweis Egyetem ÁOK által akkreditált manuálterapeuta képzettséget szereztem meg. 2021 óta magánpraxis keretében folytatom tevékenységem, Úgy érzem ezzel tudok megfelelő időt, egyéni figyelmet és teret biztosítani a mélyebb megértéseknek és változásoknak. Folyamatos igyekszem gazdagítani a szemléletem és technikáim. 2023 óta a TestSzobrászat®, testtartás és testtudat fejlesztőmódszer kezeléssorozatai is munkám fontos részét képezik.&nbsp;<br>",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
                 "overlayOpacity": "0.7",
                 "overlayColor": "#ffffff"
@@ -4822,6 +4822,9 @@
             "H2": {
               "font-size": "60px",
               "color": "#28324e"
+            },
+            "B": {
+              "font-size": "16px"
             }
           }
         },
