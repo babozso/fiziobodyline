@@ -818,7 +818,7 @@
           "period4": "&nbsp;",
           "list1": "Minden gyógytornára és speciális kezelésre évényes<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"></li></ul>",
           "list2": "<p><br></p><p></p><ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">55 perc/ 12.000 Ft</li></ul><p></p>",
-          "list3": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">55 perc / 20..000 Ft</li><li class=\"list-group-item\">85 perc / 28.000 Ft</li><li class=\"list-group-item\">TestSzobrászat® 110 perc / 23000 - első alkalommal konzultációs időpontot egyeztetünk</li><li class=\"list-group-item\"><br></li></ul>",
+          "list3": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">55 perc / 20..000 Ft</li><li class=\"list-group-item\">85 perc / 28.000 Ft</li><li class=\"list-group-item\">TestSzobrászat® 110 perc / 28000 - első alkalommal konzultációs időpontot egyeztetünk</li><li class=\"list-group-item\"><br></li></ul>",
           "list4": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"></li></ul>",
           "_name": "pricing-table2",
           "_anchor": "pricing-table2-8"
