@@ -31,7 +31,7 @@
     "versionFirst": "4.8.10",
     "siteFonts": [],
     "uniqCompNum": 119,
-    "versionPublish": "4.7.8",
+    "versionPublish": "5.8.0",
     "screenshot": "screenshot.png",
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
     "robotsSwitcher": "on",
@@ -41,7 +41,8 @@
     "noImageResize": "",
     "google-analytics": "",
     "cookiesAlert": "",
-    "gdpr": ""
+    "gdpr": "",
+    "imageResize": true
   },
   "pages": {
     "index.html": {
@@ -122,7 +123,7 @@
             "fontColor": "#28324e",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Szolgáltatások</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Gyógytorna</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html#msg-box8-t\" target=\"_blank\">McKenzie terápia</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html#msg-box8-x\" target=\"_blank\">Schroth terápia</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html#content5-11\" target=\"_blank\">Kinezio tape</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html#content8-16\" target=\"_blank\">FDM Typaldos módszer</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html#msg-box8-1a\" target=\"_blank\">Dorn terápia</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Perifériás idegmobilizáció</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html#msg-box8-1j\" target=\"_blank\">Manuálterápia</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://behindyourlife.hu\" target=\"_blank\">Anatomy Trains</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://behindyourlife.hu\" target=\"_blank\">Testszobrászat</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Rólam</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"babocsayzsofia.html\" aria-expanded=\"false\" target=\"_blank\">Babocsay Zsófia</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#pricing-table2-8\" aria-expanded=\"false\">Árak</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Blog</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Piriformis szindróma</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Nyaki fájdalom okai és kezelése</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Teniszkönyök,golfkönyök</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"index.html#form1-a\" target=\"_blank\">BEJELENTKEZÉS</a></li>",
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Szolgáltatások</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Gyógytorna</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html#msg-box8-t\" target=\"_blank\">McKenzie terápia</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html#msg-box8-x\" target=\"_blank\">Schroth terápia</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html#content5-11\" target=\"_blank\">Kinezio tape</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html#content8-16\" target=\"_blank\">FDM Typaldos módszer</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Perifériás idegmobilizáció</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html#msg-box8-1j\" target=\"_blank\">Manuálterápia</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://behindyourlife.hu\" target=\"_blank\">Anatomy Trains</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Rólam</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"babocsayzsofia.html\" aria-expanded=\"false\" target=\"_blank\">Babocsay Zsófia</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#pricing-table2-8\" aria-expanded=\"false\">Árak</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Blog</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Piriformis szindróma</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Nyaki fájdalom okai és kezelése</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Teniszkönyök,golfkönyök</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"index.html#form1-a\" target=\"_blank\">BEJELENTKEZÉS</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -148,7 +149,8 @@
             "Téma"
           ],
           "_name": "menu",
-          "_anchor": "menu-0"
+          "_anchor": "menu-0",
+          "_sourceTheme": "mobirise3"
         },
         {
           "_params": {
@@ -188,7 +190,8 @@
             ".mbr-section-title SPAN": {
               "font-size": "46px"
             }
-          }
+          },
+          "_sourceTheme": "mobirise3"
         },
         {
           "_params": {
@@ -253,7 +256,8 @@
             ".mbr-section-title SPAN": {
               "font-size": "36px"
             }
-          }
+          },
+          "_sourceTheme": "mobirise3"
         },
         {
           "_styles": {
@@ -277,7 +281,8 @@
             "Téma"
           ],
           "_name": "header3",
-          "_anchor": "header3-4"
+          "_anchor": "header3-4",
+          "_sourceTheme": "mobirise3"
         },
         {
           "_inherit": "features4",
@@ -417,7 +422,8 @@
           "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "_name": "features7",
-          "_anchor": "features7-3"
+          "_anchor": "features7-3",
+          "_sourceTheme": "mobirise3"
         },
         {
           "_styles": {
@@ -441,7 +447,8 @@
             "Téma"
           ],
           "_name": "header3",
-          "_anchor": "header3-5"
+          "_anchor": "header3-5",
+          "_sourceTheme": "mobirise3"
         },
         {
           "_params": {
@@ -472,7 +479,8 @@
               "src": "@PROJECT_PATH@/assets/images/img-212-561x630.jpg",
               "link": "",
               "alt": "Babocsay Zsófia",
-              "title": ""
+              "title": "",
+              "linkInNewWindow": false
             },
             "video": {
               "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
@@ -493,7 +501,8 @@
             "Téma"
           ],
           "_name": "msg-box5",
-          "_anchor": "msg-box5-3a"
+          "_anchor": "msg-box5-3a",
+          "_sourceTheme": "mobirise3"
         },
         {
           "_inherit": "pricing-table1",
@@ -603,7 +612,8 @@
           "list3": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">55 perc / 20..000 Ft</li><li class=\"list-group-item\">85 perc / 28.000 Ft</li><li class=\"list-group-item\"><br></li><li class=\"list-group-item\"><br></li></ul>",
           "list4": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"></li></ul>",
           "_name": "pricing-table2",
-          "_anchor": "pricing-table2-8"
+          "_anchor": "pricing-table2-8",
+          "_sourceTheme": "mobirise3"
         },
         {
           "_params": {
@@ -618,13 +628,12 @@
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8,
             "googleMap": {
-              "address": "1056 Budapest irányi utca 27",
-              "placeId": "ChIJyyObQkTcQUcRNL292g7pjpo",
+              "address": "1136 Budapest Felka utca 6.",
               "state": "ok",
               "stateDetails": ""
             }
           },
-          "text1": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\"><span style=\"font-size: 16px; letter-spacing: -1px;\"><b>Cím</b></span></font><br>1056 Budapest, Irányi utca 27.<br><br><br><br>\n<strong>Kapcsolat</strong><br>\nEmail: <a href=\"mailto:fiziobodyline@gmail.com\">fiziobodyline@gmail.com</a><br><br><br><br><br>24 órán belüli lemondás esetén a kezelés árát a következő alkalommal felszámoljuk, megértésüket köszönjük.<br>",
+          "text1": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\"><span style=\"font-size: 16px; letter-spacing: -1px;\"><b>Cím</b></span></font><br>1136 Budapest, Felka utca 6.<br><br><br><br>\n<strong>Kapcsolat</strong><br>\nEmail: <a href=\"mailto:fiziobodyline@gmail.com\">fiziobodyline@gmail.com</a><br><br><br><br><br>24 órán belüli lemondás esetén a kezelés árát a következő alkalommal felszámoljuk, megértésüket köszönjük.<br>",
           "text2": "<p class=\"mbr-contacts__text\"><strong>Kövess minket</strong></p><ul><li>facebook.com/fiziobodyline.hu</li></ul>",
           "_tags": [
             "Téma"
@@ -635,7 +644,8 @@
             "P": {
               "text-align": "left"
             }
-          }
+          },
+          "_sourceTheme": "mobirise3"
         },
         {
           "_params": {
@@ -655,7 +665,8 @@
             "Téma"
           ],
           "_name": "footer1",
-          "_anchor": "footer1-2g"
+          "_anchor": "footer1-2g",
+          "_sourceTheme": "mobirise3"
         }
       ]
     },
@@ -734,7 +745,7 @@
             "fontColor": "#28324e",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Szolgáltatások</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Gyógytorna</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html#msg-box8-t\" target=\"_blank\">McKenzie terápia</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html#msg-box8-x\" target=\"_blank\">Schroth terápia</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html#content5-11\" target=\"_blank\">Kinezio tape</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html#content8-16\" target=\"_blank\">FDM Typaldos módszer</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html#msg-box8-1a\" target=\"_blank\">Dorn terápia</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Perifériás idegmobilizáció</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html#msg-box8-1j\" target=\"_blank\">Manuálterápia</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://behindyourlife.hu\" target=\"_blank\">Anatomy Trains</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://behindyourlife.hu\" target=\"_blank\">Testszobrászat</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Rólam</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"babocsayzsofia.html\" aria-expanded=\"false\" target=\"_blank\">Babocsay Zsófia</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#pricing-table2-8\" aria-expanded=\"false\">Árak</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Blog</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Piriformis szindróma</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Nyaki fájdalom okai és kezelése</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Teniszkönyök,golfkönyök</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"index.html#form1-a\" target=\"_blank\">BEJELENTKEZÉS</a></li>",
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Szolgáltatások</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Gyógytorna</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html#msg-box8-t\" target=\"_blank\">McKenzie terápia</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html#msg-box8-x\" target=\"_blank\">Schroth terápia</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html#content5-11\" target=\"_blank\">Kinezio tape</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html#content8-16\" target=\"_blank\">FDM Typaldos módszer</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Perifériás idegmobilizáció</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html#msg-box8-1j\" target=\"_blank\">Manuálterápia</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://behindyourlife.hu\" target=\"_blank\">Anatomy Trains</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Rólam</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"babocsayzsofia.html\" aria-expanded=\"false\" target=\"_blank\">Babocsay Zsófia</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#pricing-table2-8\" aria-expanded=\"false\">Árak</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Blog</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Piriformis szindróma</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Nyaki fájdalom okai és kezelése</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Teniszkönyök,golfkönyök</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"index.html#form1-a\" target=\"_blank\">BEJELENTKEZÉS</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -760,7 +771,8 @@
             "Téma"
           ],
           "_name": "menu",
-          "_anchor": "menu-20"
+          "_anchor": "menu-20",
+          "_sourceTheme": "mobirise3"
         },
         {
           "_params": {
@@ -806,7 +818,8 @@
               "font-size": "18px",
               "text-align": "center"
             }
-          }
+          },
+          "_sourceTheme": "mobirise3"
         },
         {
           "_inherit": "features4",
@@ -940,7 +953,8 @@
           "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "_name": "features7",
-          "_anchor": "features7-23"
+          "_anchor": "features7-23",
+          "_sourceTheme": "mobirise3"
         },
         {
           "_styles": {
@@ -963,7 +977,8 @@
             "Téma"
           ],
           "_name": "header3",
-          "_anchor": "header3-2e"
+          "_anchor": "header3-2e",
+          "_sourceTheme": "mobirise3"
         },
         {
           "_params": {
@@ -978,13 +993,12 @@
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8,
             "googleMap": {
-              "address": "1056 Budapest irányi utca 27",
-              "placeId": "ChIJyyObQkTcQUcRNL292g7pjpo",
+              "address": "1136 Budapest Felka utca 6.",
               "state": "ok",
               "stateDetails": ""
             }
           },
-          "text1": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\"><span style=\"font-size: 16px; letter-spacing: -1px;\"><b>Cím</b></span></font><br>1056 Budapest, Irányi utca 27.<br><br><br><br>\n<strong>Kapcsolat</strong><br>\nEmail: <a href=\"mailto:fiziobodyline@gmail.com\">fiziobodyline@gmail.com</a><br><br><br><br><br>24 órán belüli lemondás esetén a kezelés árát a következő alkalommal felszámoljuk, megértésüket köszönjük.<br>",
+          "text1": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\"><span style=\"font-size: 16px; letter-spacing: -1px;\"><b>Cím</b></span></font><br>1136 Budapest, Felka utca 6.<br><br><br><br>\n<strong>Kapcsolat</strong><br>\nEmail: <a href=\"mailto:fiziobodyline@gmail.com\">fiziobodyline@gmail.com</a><br><br><br><br><br>24 órán belüli lemondás esetén a kezelés árát a következő alkalommal felszámoljuk, megértésüket köszönjük.<br>",
           "text2": "<p class=\"mbr-contacts__text\"><strong>Kövess minket</strong></p><ul><li>facebook.com/fiziobodyline.hu</li></ul>",
           "_tags": [
             "Téma"
@@ -995,7 +1009,8 @@
             "P": {
               "text-align": "left"
             }
-          }
+          },
+          "_sourceTheme": "mobirise3"
         }
       ]
     },
@@ -1074,7 +1089,7 @@
             "fontColor": "#28324e",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Szolgáltatások</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Gyógytorna</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html#msg-box8-t\" target=\"_blank\">McKenzie terápia</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html#msg-box8-x\" target=\"_blank\">Schroth terápia</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html#content5-11\" target=\"_blank\">Kinezio tape</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html#content8-16\" target=\"_blank\">FDM Typaldos módszer</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html#msg-box8-1a\" target=\"_blank\">Dorn terápia</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Perifériás idegmobilizáció</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html#msg-box8-1j\" target=\"_blank\">Manuálterápia</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://behindyourlife.hu\" target=\"_blank\">Anatomy Trains</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://behindyourlife.hu\" target=\"_blank\">Testszobrászat</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Rólam</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"babocsayzsofia.html\" aria-expanded=\"false\" target=\"_blank\">Babocsay Zsófia</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#pricing-table2-8\" aria-expanded=\"false\">Árak</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Blog</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Piriformis szindróma</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Nyaki fájdalom okai és kezelése</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Teniszkönyök,golfkönyök</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"index.html#form1-a\" target=\"_blank\">BEJELENTKEZÉS</a></li>",
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Szolgáltatások</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Gyógytorna</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html#msg-box8-t\" target=\"_blank\">McKenzie terápia</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html#msg-box8-x\" target=\"_blank\">Schroth terápia</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html#content5-11\" target=\"_blank\">Kinezio tape</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html#content8-16\" target=\"_blank\">FDM Typaldos módszer</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Perifériás idegmobilizáció</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html#msg-box8-1j\" target=\"_blank\">Manuálterápia</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://behindyourlife.hu\" target=\"_blank\">Anatomy Trains</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Rólam</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"babocsayzsofia.html\" aria-expanded=\"false\" target=\"_blank\">Babocsay Zsófia</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#pricing-table2-8\" aria-expanded=\"false\">Árak</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Blog</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Piriformis szindróma</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Nyaki fájdalom okai és kezelése</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Teniszkönyök,golfkönyök</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"index.html#form1-a\" target=\"_blank\">BEJELENTKEZÉS</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -1100,7 +1115,8 @@
             "Téma"
           ],
           "_name": "menu",
-          "_anchor": "menu-1g"
+          "_anchor": "menu-1g",
+          "_sourceTheme": "mobirise3"
         },
         {
           "_styles": {
@@ -1142,16 +1158,17 @@
             "Téma"
           ],
           "_name": "msg-box8",
-          "_anchor": "msg-box8-1j"
+          "_anchor": "msg-box8-1j",
+          "_sourceTheme": "mobirise3"
         },
         {
           "_params": {
             "showTitle": true,
-            "showSubtitle": false,
+            "showSubtitle": true,
             "showImages": true,
             "showName": false,
             "showBio": false,
-            "count": "2",
+            "count": "1",
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": false,
@@ -1163,33 +1180,16 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "Kezelést végző munkatársaink",
-          "subtitle": "Shape your future web project with sharp design and refine coded functions.",
+          "title": "Bejelentkezés<br><br>",
+          "subtitle": "24 órán belüli lemondás esetén a kezelés árát a következő alkalommal felszámoljuk, megértésüket köszönjük.",
           "testimonial": [
             {
               "authorName": "Abanoub S.",
               "authorBio": "User",
-              "text": "<p><b>Babocsay Zsófia</b></p><p><a href=\"tel:+36203346100\" class=\"text-black\">+36203346100</a></p>",
+              "text": "<p><b>Babocsay Zsófia</b></p><p><a href=\"tel:+36203346100\" class=\"text-black\">+36203346100</a></p><p><a href=\"mailto:fiziobodyline@gmail.com\" class=\"text-primary\">fiziobodyline@gmail.com</a></p>",
               "media": {
                 "image": {
                   "src": "@PROJECT_PATH@/assets/images/zs-1-128x160.jpg",
-                  "class": "img-circle",
-                  "height": 160,
-                  "width": 160,
-                  "active": true,
-                  "link": "",
-                  "alt": "",
-                  "title": ""
-                }
-              }
-            },
-            {
-              "authorName": "Suffian A.",
-              "authorBio": "User",
-              "text": "<p><b>Geréby Fruzsina</b></p><p><a href=\"tel:+36305237527\" class=\"text-black\">+36305237527</a></p>",
-              "media": {
-                "image": {
-                  "src": "@PROJECT_PATH@/assets/images/gerb-126x160.jpg",
                   "class": "img-circle",
                   "height": 160,
                   "width": 160,
@@ -1210,67 +1210,8 @@
             ".mbr-section-title": {
               "font-size": "36px"
             }
-          }
-        },
-        {
-          "_params": {
-            "showTitle": true,
-            "showSubTitle": true,
-            "labelsColor": "#232323",
-            "paddingTop": "1",
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
           },
-          "title": "BEJELENTKEZÉS",
-          "subtitle": "24 órán belüli lemondás esetén a kezelés árát a következő alkalommal felszámoljuk, megértésüket köszönjük.",
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Elküldöm</a>",
-          "form": {
-            "action": "fiziobodyline@gmail.com",
-            "alerts": {
-              "success": "Köszönjük a jelentkezését, hamarosan felkeressük időpont egyeztetés céljából! \n\nA Fiziobodyline csapata\n"
-            },
-            "fields": {
-              "name": {
-                "visible": true,
-                "title": "Name",
-                "customTitle": "Név"
-              },
-              "email": {
-                "visible": false,
-                "title": "Email",
-                "customTitle": "Email"
-              },
-              "phone": {
-                "visible": true,
-                "title": "Phone",
-                "customTitle": "Telefonszám"
-              },
-              "message": {
-                "title": "Message",
-                "customTitle": "Kezelő megnevezése, megjegyzés"
-              }
-            }
-          },
-          "_tags": [
-            "Téma"
-          ],
-          "_name": "form1",
-          "_anchor": "form1-1i",
-          "_styles": {
-            ".form-control-label": {
-              "color": "#232323"
-            },
-            ".mbr-section-title": {
-              "font-size": "32px"
-            }
-          }
+          "_sourceTheme": "mobirise3"
         },
         {
           "_params": {
@@ -1285,13 +1226,12 @@
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8,
             "googleMap": {
-              "address": "1056 Budapest irányi utca 27",
-              "placeId": "ChIJyyObQkTcQUcRNL292g7pjpo",
+              "address": "1136 Budapest Felka utca 6.",
               "state": "ok",
               "stateDetails": ""
             }
           },
-          "text1": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\"><span style=\"font-size: 16px; letter-spacing: -1px;\"><b>Cím</b></span></font><br>1056 Budapest, Irányi utca 27.<br><br><br><br>\n<strong>Kapcsolat</strong><br>\nEmail: <a href=\"mailto:fiziobodyline@gmail.com\">fiziobodyline@gmail.com</a><br><br><br><br><br>24 órán belüli lemondás esetén a kezelés árát a következő alkalommal felszámoljuk, megértésüket köszönjük.<br>",
+          "text1": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\"><span style=\"font-size: 16px; letter-spacing: -1px;\"><b>Cím</b></span></font><br>1136 Budapest, Felka utca 6.<br><br><br><br>\n<strong>Kapcsolat</strong><br>\nEmail: <a href=\"mailto:fiziobodyline@gmail.com\">fiziobodyline@gmail.com</a><br><br><br><br><br>24 órán belüli lemondás esetén a kezelés árát a következő alkalommal felszámoljuk, megértésüket köszönjük.<br>",
           "text2": "<p class=\"mbr-contacts__text\"><strong>Kövess minket</strong></p><ul><li>facebook.com/fiziobodyline.hu</li></ul>",
           "_tags": [
             "Téma"
@@ -1302,7 +1242,8 @@
             "P": {
               "text-align": "left"
             }
-          }
+          },
+          "_sourceTheme": "mobirise3"
         }
       ]
     },
@@ -1381,7 +1322,7 @@
             "fontColor": "#28324e",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Szolgáltatások</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Gyógytorna</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html#msg-box8-t\" target=\"_blank\">McKenzie terápia</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html#msg-box8-x\" target=\"_blank\">Schroth terápia</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html#content5-11\" target=\"_blank\">Kinezio tape</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html#content8-16\" target=\"_blank\">FDM Typaldos módszer</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html#msg-box8-1a\" target=\"_blank\">Dorn terápia</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Perifériás idegmobilizáció</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html#msg-box8-1j\" target=\"_blank\">Manuálterápia</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://behindyourlife.hu\" target=\"_blank\">Anatomy Trains</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://behindyourlife.hu\" target=\"_blank\">Testszobrászat</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Rólam</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"babocsayzsofia.html\" aria-expanded=\"false\" target=\"_blank\">Babocsay Zsófia</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#pricing-table2-8\" aria-expanded=\"false\">Árak</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Blog</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Piriformis szindróma</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Nyaki fájdalom okai és kezelése</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Teniszkönyök,golfkönyök</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"index.html#form1-a\" target=\"_blank\">BEJELENTKEZÉS</a></li>",
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Szolgáltatások</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Gyógytorna</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html#msg-box8-t\" target=\"_blank\">McKenzie terápia</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html#msg-box8-x\" target=\"_blank\">Schroth terápia</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html#content5-11\" target=\"_blank\">Kinezio tape</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html#content8-16\" target=\"_blank\">FDM Typaldos módszer</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Perifériás idegmobilizáció</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html#msg-box8-1j\" target=\"_blank\">Manuálterápia</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://behindyourlife.hu\" target=\"_blank\">Anatomy Trains</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Rólam</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"babocsayzsofia.html\" aria-expanded=\"false\" target=\"_blank\">Babocsay Zsófia</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#pricing-table2-8\" aria-expanded=\"false\">Árak</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Blog</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Piriformis szindróma</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Nyaki fájdalom okai és kezelése</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Teniszkönyök,golfkönyök</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"index.html#form1-a\" target=\"_blank\">BEJELENTKEZÉS</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -1407,7 +1348,8 @@
             "Téma"
           ],
           "_name": "menu",
-          "_anchor": "menu-17"
+          "_anchor": "menu-17",
+          "_sourceTheme": "mobirise3"
         },
         {
           "_styles": {
@@ -1449,7 +1391,8 @@
             "Téma"
           ],
           "_name": "msg-box8",
-          "_anchor": "msg-box8-1a"
+          "_anchor": "msg-box8-1a",
+          "_sourceTheme": "mobirise3"
         },
         {
           "_params": {
@@ -1534,7 +1477,8 @@
             ".mbr-section-title": {
               "font-size": "32px"
             }
-          }
+          },
+          "_sourceTheme": "mobirise3"
         },
         {
           "_params": {
@@ -1594,7 +1538,8 @@
             ".mbr-section-title": {
               "font-size": "32px"
             }
-          }
+          },
+          "_sourceTheme": "mobirise3"
         },
         {
           "_params": {
@@ -1609,13 +1554,12 @@
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8,
             "googleMap": {
-              "address": "1056 Budapest irányi utca 27",
-              "placeId": "ChIJyyObQkTcQUcRNL292g7pjpo",
+              "address": "1136 Budapest Felka utca 6.",
               "state": "ok",
               "stateDetails": ""
             }
           },
-          "text1": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\"><span style=\"font-size: 16px; letter-spacing: -1px;\"><b>Cím</b></span></font><br>1056 Budapest, Irányi utca 27.<br><br><br><br>\n<strong>Kapcsolat</strong><br>\nEmail: <a href=\"mailto:fiziobodyline@gmail.com\">fiziobodyline@gmail.com</a><br><br><br><br><br>24 órán belüli lemondás esetén a kezelés árát a következő alkalommal felszámoljuk, megértésüket köszönjük.<br>",
+          "text1": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\"><span style=\"font-size: 16px; letter-spacing: -1px;\"><b>Cím</b></span></font><br>1136 Budapest, Felka utca 6.<br><br><br><br>\n<strong>Kapcsolat</strong><br>\nEmail: <a href=\"mailto:fiziobodyline@gmail.com\">fiziobodyline@gmail.com</a><br><br><br><br><br>24 órán belüli lemondás esetén a kezelés árát a következő alkalommal felszámoljuk, megértésüket köszönjük.<br>",
           "text2": "<p class=\"mbr-contacts__text\"><strong>Kövess minket</strong></p><ul><li>facebook.com/fiziobodyline.hu</li></ul>",
           "_tags": [
             "Téma"
@@ -1626,7 +1570,8 @@
             "P": {
               "text-align": "left"
             }
-          }
+          },
+          "_sourceTheme": "mobirise3"
         }
       ]
     },
@@ -1705,7 +1650,7 @@
             "fontColor": "#28324e",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Szolgáltatások</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Gyógytorna</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html#msg-box8-t\" target=\"_blank\">McKenzie terápia</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html#msg-box8-x\" target=\"_blank\">Schroth terápia</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html#content5-11\" target=\"_blank\">Kinezio tape</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html#content8-16\" target=\"_blank\">FDM Typaldos módszer</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html#msg-box8-1a\" target=\"_blank\">Dorn terápia</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Perifériás idegmobilizáció</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html#msg-box8-1j\" target=\"_blank\">Manuálterápia</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://behindyourlife.hu\" target=\"_blank\">Anatomy Trains</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://behindyourlife.hu\" target=\"_blank\">Testszobrászat</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Rólam</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"babocsayzsofia.html\" aria-expanded=\"false\" target=\"_blank\">Babocsay Zsófia</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#pricing-table2-8\" aria-expanded=\"false\">Árak</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Blog</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Piriformis szindróma</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Nyaki fájdalom okai és kezelése</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Teniszkönyök,golfkönyök</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"index.html#form1-a\" target=\"_blank\">BEJELENTKEZÉS</a></li>",
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Szolgáltatások</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Gyógytorna</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html#msg-box8-t\" target=\"_blank\">McKenzie terápia</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html#msg-box8-x\" target=\"_blank\">Schroth terápia</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html#content5-11\" target=\"_blank\">Kinezio tape</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html#content8-16\" target=\"_blank\">FDM Typaldos módszer</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Perifériás idegmobilizáció</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html#msg-box8-1j\" target=\"_blank\">Manuálterápia</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://behindyourlife.hu\" target=\"_blank\">Anatomy Trains</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Rólam</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"babocsayzsofia.html\" aria-expanded=\"false\" target=\"_blank\">Babocsay Zsófia</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#pricing-table2-8\" aria-expanded=\"false\">Árak</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Blog</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Piriformis szindróma</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Nyaki fájdalom okai és kezelése</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Teniszkönyök,golfkönyök</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"index.html#form1-a\" target=\"_blank\">BEJELENTKEZÉS</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -1731,7 +1676,8 @@
             "Téma"
           ],
           "_name": "menu",
-          "_anchor": "menu-13"
+          "_anchor": "menu-13",
+          "_sourceTheme": "mobirise3"
         },
         {
           "_inherit": "content5",
@@ -1772,7 +1718,8 @@
             "Téma"
           ],
           "_name": "content8",
-          "_anchor": "content8-16"
+          "_anchor": "content8-16",
+          "_sourceTheme": "mobirise3"
         },
         {
           "_params": {
@@ -1840,7 +1787,8 @@
             ".mbr-section-title": {
               "font-size": "32px"
             }
-          }
+          },
+          "_sourceTheme": "mobirise3"
         },
         {
           "_params": {
@@ -1900,7 +1848,8 @@
             ".mbr-section-title": {
               "font-size": "32px"
             }
-          }
+          },
+          "_sourceTheme": "mobirise3"
         },
         {
           "_params": {
@@ -1915,13 +1864,12 @@
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8,
             "googleMap": {
-              "address": "1056 Budapest irányi utca 27",
-              "placeId": "ChIJyyObQkTcQUcRNL292g7pjpo",
+              "address": "1136 Budapest Felka utca 6.",
               "state": "ok",
               "stateDetails": ""
             }
           },
-          "text1": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\"><span style=\"font-size: 16px; letter-spacing: -1px;\"><b>Cím</b></span></font><br>1056 Budapest, Irányi utca 27.<br><br><br><br>\n<strong>Kapcsolat</strong><br>\nEmail: <a href=\"mailto:fiziobodyline@gmail.com\">fiziobodyline@gmail.com</a><br><br><br><br><br>24 órán belüli lemondás esetén a kezelés árát a következő alkalommal felszámoljuk, megértésüket köszönjük.<br>",
+          "text1": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\"><span style=\"font-size: 16px; letter-spacing: -1px;\"><b>Cím</b></span></font><br>1136 Budapest, Felka utca 6.<br><br><br><br>\n<strong>Kapcsolat</strong><br>\nEmail: <a href=\"mailto:fiziobodyline@gmail.com\">fiziobodyline@gmail.com</a><br><br><br><br><br>24 órán belüli lemondás esetén a kezelés árát a következő alkalommal felszámoljuk, megértésüket köszönjük.<br>",
           "text2": "<p class=\"mbr-contacts__text\"><strong>Kövess minket</strong></p><ul><li>facebook.com/fiziobodyline.hu</li></ul>",
           "_tags": [
             "Téma"
@@ -1932,7 +1880,8 @@
             "P": {
               "text-align": "left"
             }
-          }
+          },
+          "_sourceTheme": "mobirise3"
         }
       ]
     },
@@ -2011,7 +1960,7 @@
             "fontColor": "#28324e",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Szolgáltatások</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Gyógytorna</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html#msg-box8-t\" target=\"_blank\">McKenzie terápia</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html#msg-box8-x\" target=\"_blank\">Schroth terápia</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html#content5-11\" target=\"_blank\">Kinezio tape</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html#content8-16\" target=\"_blank\">FDM Typaldos módszer</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html#msg-box8-1a\" target=\"_blank\">Dorn terápia</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Perifériás idegmobilizáció</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html#msg-box8-1j\" target=\"_blank\">Manuálterápia</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://behindyourlife.hu\" target=\"_blank\">Anatomy Trains</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://behindyourlife.hu\" target=\"_blank\">Testszobrászat</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Rólam</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"babocsayzsofia.html\" aria-expanded=\"false\" target=\"_blank\">Babocsay Zsófia</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#pricing-table2-8\" aria-expanded=\"false\">Árak</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Blog</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Piriformis szindróma</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Nyaki fájdalom okai és kezelése</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Teniszkönyök,golfkönyök</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"index.html#form1-a\" target=\"_blank\">BEJELENTKEZÉS</a></li>",
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Szolgáltatások</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Gyógytorna</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html#msg-box8-t\" target=\"_blank\">McKenzie terápia</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html#msg-box8-x\" target=\"_blank\">Schroth terápia</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html#content5-11\" target=\"_blank\">Kinezio tape</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html#content8-16\" target=\"_blank\">FDM Typaldos módszer</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Perifériás idegmobilizáció</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html#msg-box8-1j\" target=\"_blank\">Manuálterápia</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://behindyourlife.hu\" target=\"_blank\">Anatomy Trains</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Rólam</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"babocsayzsofia.html\" aria-expanded=\"false\" target=\"_blank\">Babocsay Zsófia</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#pricing-table2-8\" aria-expanded=\"false\">Árak</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Blog</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Piriformis szindróma</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Nyaki fájdalom okai és kezelése</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Teniszkönyök,golfkönyök</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"index.html#form1-a\" target=\"_blank\">BEJELENTKEZÉS</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -2037,7 +1986,8 @@
             "Téma"
           ],
           "_name": "menu",
-          "_anchor": "menu-z"
+          "_anchor": "menu-z",
+          "_sourceTheme": "mobirise3"
         },
         {
           "_styles": {
@@ -2077,7 +2027,8 @@
             "Téma"
           ],
           "_name": "content5",
-          "_anchor": "content5-11"
+          "_anchor": "content5-11",
+          "_sourceTheme": "mobirise3"
         },
         {
           "_params": {
@@ -2134,7 +2085,8 @@
             ".form-control-label": {
               "color": "#232323"
             }
-          }
+          },
+          "_sourceTheme": "mobirise3"
         },
         {
           "_params": {
@@ -2149,13 +2101,12 @@
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8,
             "googleMap": {
-              "address": "1056 Budapest irányi utca 27",
-              "placeId": "ChIJyyObQkTcQUcRNL292g7pjpo",
+              "address": "1136 Budapest Felka utca 6.",
               "state": "ok",
               "stateDetails": ""
             }
           },
-          "text1": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\"><span style=\"font-size: 16px; letter-spacing: -1px;\"><b>Cím</b></span></font><br>1056 Budapest, Irányi utca 27.<br><br><br><br>\n<strong>Kapcsolat</strong><br>\nEmail: <a href=\"mailto:fiziobodyline@gmail.com\">fiziobodyline@gmail.com</a><br><br><br><br><br>24 órán belüli lemondás esetén a kezelés árát a következő alkalommal felszámoljuk, megértésüket köszönjük.<br>",
+          "text1": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\"><span style=\"font-size: 16px; letter-spacing: -1px;\"><b>Cím</b></span></font><br>1136 Budapest, Felka utca 6.<br><br><br><br>\n<strong>Kapcsolat</strong><br>\nEmail: <a href=\"mailto:fiziobodyline@gmail.com\">fiziobodyline@gmail.com</a><br><br><br><br><br>24 órán belüli lemondás esetén a kezelés árát a következő alkalommal felszámoljuk, megértésüket köszönjük.<br>",
           "text2": "<p class=\"mbr-contacts__text\"><strong>Kövess minket</strong></p><ul><li>facebook.com/fiziobodyline.hu</li></ul>",
           "_tags": [
             "Téma"
@@ -2166,7 +2117,8 @@
             "P": {
               "text-align": "left"
             }
-          }
+          },
+          "_sourceTheme": "mobirise3"
         }
       ]
     },
@@ -2245,7 +2197,7 @@
             "fontColor": "#28324e",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Szolgáltatások</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Gyógytorna</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html#msg-box8-t\" target=\"_blank\">McKenzie terápia</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html#msg-box8-x\" target=\"_blank\">Schroth terápia</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html#content5-11\" target=\"_blank\">Kinezio tape</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html#content8-16\" target=\"_blank\">FDM Typaldos módszer</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html#msg-box8-1a\" target=\"_blank\">Dorn terápia</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Perifériás idegmobilizáció</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html#msg-box8-1j\" target=\"_blank\">Manuálterápia</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://behindyourlife.hu\" target=\"_blank\">Anatomy Trains</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://behindyourlife.hu\" target=\"_blank\">Testszobrászat</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Rólam</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"babocsayzsofia.html\" aria-expanded=\"false\" target=\"_blank\">Babocsay Zsófia</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#pricing-table2-8\" aria-expanded=\"false\">Árak</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Blog</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Piriformis szindróma</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Nyaki fájdalom okai és kezelése</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Teniszkönyök,golfkönyök</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"index.html#form1-a\" target=\"_blank\">BEJELENTKEZÉS</a></li>",
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Szolgáltatások</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Gyógytorna</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html#msg-box8-t\" target=\"_blank\">McKenzie terápia</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html#msg-box8-x\" target=\"_blank\">Schroth terápia</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html#content5-11\" target=\"_blank\">Kinezio tape</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html#content8-16\" target=\"_blank\">FDM Typaldos módszer</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Perifériás idegmobilizáció</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html#msg-box8-1j\" target=\"_blank\">Manuálterápia</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://behindyourlife.hu\" target=\"_blank\">Anatomy Trains</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Rólam</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"babocsayzsofia.html\" aria-expanded=\"false\" target=\"_blank\">Babocsay Zsófia</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#pricing-table2-8\" aria-expanded=\"false\">Árak</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Blog</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Piriformis szindróma</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Nyaki fájdalom okai és kezelése</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Teniszkönyök,golfkönyök</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"index.html#form1-a\" target=\"_blank\">BEJELENTKEZÉS</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -2271,7 +2223,8 @@
             "Téma"
           ],
           "_name": "menu",
-          "_anchor": "menu-u"
+          "_anchor": "menu-u",
+          "_sourceTheme": "mobirise3"
         },
         {
           "_styles": {
@@ -2313,7 +2266,8 @@
             "Téma"
           ],
           "_name": "msg-box8",
-          "_anchor": "msg-box8-x"
+          "_anchor": "msg-box8-x",
+          "_sourceTheme": "mobirise3"
         },
         {
           "_inherit": "features1",
@@ -2443,7 +2397,8 @@
             ".mbr-cards-col:nth-child(even) .card-title": {
               "color": "#28324e"
             }
-          }
+          },
+          "_sourceTheme": "mobirise3"
         },
         {
           "_params": {
@@ -2528,7 +2483,8 @@
             ".mbr-section-title": {
               "font-size": "32px"
             }
-          }
+          },
+          "_sourceTheme": "mobirise3"
         },
         {
           "_params": {
@@ -2588,7 +2544,8 @@
             ".mbr-section-title": {
               "font-size": "32px"
             }
-          }
+          },
+          "_sourceTheme": "mobirise3"
         },
         {
           "_params": {
@@ -2603,13 +2560,12 @@
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8,
             "googleMap": {
-              "address": "1056 Budapest irányi utca 27",
-              "placeId": "ChIJyyObQkTcQUcRNL292g7pjpo",
+              "address": "1136 Budapest Felka utca 6.",
               "state": "ok",
               "stateDetails": ""
             }
           },
-          "text1": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\"><span style=\"font-size: 16px; letter-spacing: -1px;\"><b>Cím</b></span></font><br>1056 Budapest, Irányi utca 27.<br><br><br><br>\n<strong>Kapcsolat</strong><br>\nEmail: <a href=\"mailto:fiziobodyline@gmail.com\">fiziobodyline@gmail.com</a><br><br><br><br><br>24 órán belüli lemondás esetén a kezelés árát a következő alkalommal felszámoljuk, megértésüket köszönjük.<br>",
+          "text1": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\"><span style=\"font-size: 16px; letter-spacing: -1px;\"><b>Cím</b></span></font><br>1136 Budapest, Felka utca 6.<br><br><br><br>\n<strong>Kapcsolat</strong><br>\nEmail: <a href=\"mailto:fiziobodyline@gmail.com\">fiziobodyline@gmail.com</a><br><br><br><br><br>24 órán belüli lemondás esetén a kezelés árát a következő alkalommal felszámoljuk, megértésüket köszönjük.<br>",
           "text2": "<p class=\"mbr-contacts__text\"><strong>Kövess minket</strong></p><ul><li>facebook.com/fiziobodyline.hu</li></ul>",
           "_tags": [
             "Téma"
@@ -2620,7 +2576,8 @@
             "P": {
               "text-align": "left"
             }
-          }
+          },
+          "_sourceTheme": "mobirise3"
         }
       ]
     },
@@ -2699,7 +2656,7 @@
             "fontColor": "#28324e",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Szolgáltatások</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Gyógytorna</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html#msg-box8-t\" target=\"_blank\">McKenzie terápia</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html#msg-box8-x\" target=\"_blank\">Schroth terápia</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html#content5-11\" target=\"_blank\">Kinezio tape</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html#content8-16\" target=\"_blank\">FDM Typaldos módszer</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html#msg-box8-1a\" target=\"_blank\">Dorn terápia</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Perifériás idegmobilizáció</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html#msg-box8-1j\" target=\"_blank\">Manuálterápia</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://behindyourlife.hu\" target=\"_blank\">Anatomy Trains</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://behindyourlife.hu\" target=\"_blank\">Testszobrászat</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Rólam</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"babocsayzsofia.html\" aria-expanded=\"false\" target=\"_blank\">Babocsay Zsófia</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#pricing-table2-8\" aria-expanded=\"false\">Árak</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Blog</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Piriformis szindróma</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Nyaki fájdalom okai és kezelése</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Teniszkönyök,golfkönyök</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"index.html#form1-a\" target=\"_blank\">BEJELENTKEZÉS</a></li>",
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Szolgáltatások</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Gyógytorna</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html#msg-box8-t\" target=\"_blank\">McKenzie terápia</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html#msg-box8-x\" target=\"_blank\">Schroth terápia</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html#content5-11\" target=\"_blank\">Kinezio tape</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html#content8-16\" target=\"_blank\">FDM Typaldos módszer</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Perifériás idegmobilizáció</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html#msg-box8-1j\" target=\"_blank\">Manuálterápia</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://behindyourlife.hu\" target=\"_blank\">Anatomy Trains</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Rólam</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"babocsayzsofia.html\" aria-expanded=\"false\" target=\"_blank\">Babocsay Zsófia</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#pricing-table2-8\" aria-expanded=\"false\">Árak</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Blog</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Piriformis szindróma</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Nyaki fájdalom okai és kezelése</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Teniszkönyök,golfkönyök</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"index.html#form1-a\" target=\"_blank\">BEJELENTKEZÉS</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -2725,7 +2682,8 @@
             "Téma"
           ],
           "_name": "menu",
-          "_anchor": "menu-g"
+          "_anchor": "menu-g",
+          "_sourceTheme": "mobirise3"
         },
         {
           "_styles": {
@@ -2759,7 +2717,8 @@
             "Téma"
           ],
           "_name": "msg-box8",
-          "_anchor": "msg-box8-t"
+          "_anchor": "msg-box8-t",
+          "_sourceTheme": "mobirise3"
         },
         {
           "_params": {
@@ -2811,7 +2770,8 @@
             "Téma"
           ],
           "_name": "msg-box5",
-          "_anchor": "msg-box5-s"
+          "_anchor": "msg-box5-s",
+          "_sourceTheme": "mobirise3"
         },
         {
           "_inherit": "msg-box5",
@@ -2869,7 +2829,8 @@
             "P": {
               "color": "#ffffff"
             }
-          }
+          },
+          "_sourceTheme": "mobirise3"
         },
         {
           "_params": {
@@ -2929,7 +2890,8 @@
             ".mbr-section-title": {
               "font-size": "32px"
             }
-          }
+          },
+          "_sourceTheme": "mobirise3"
         },
         {
           "_params": {
@@ -2944,13 +2906,12 @@
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8,
             "googleMap": {
-              "address": "1056 Budapest irányi utca 27",
-              "placeId": "ChIJyyObQkTcQUcRNL292g7pjpo",
+              "address": "1136 Budapest Felka utca 6.",
               "state": "ok",
               "stateDetails": ""
             }
           },
-          "text1": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\"><span style=\"font-size: 16px; letter-spacing: -1px;\"><b>Cím</b></span></font><br>1056 Budapest, Irányi utca 27.<br><br><br><br>\n<strong>Kapcsolat</strong><br>\nEmail: <a href=\"mailto:fiziobodyline@gmail.com\">fiziobodyline@gmail.com</a><br><br><br><br><br>24 órán belüli lemondás esetén a kezelés árát a következő alkalommal felszámoljuk, megértésüket köszönjük.<br>",
+          "text1": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\"><span style=\"font-size: 16px; letter-spacing: -1px;\"><b>Cím</b></span></font><br>1136 Budapest, Felka utca 6.<br><br><br><br>\n<strong>Kapcsolat</strong><br>\nEmail: <a href=\"mailto:fiziobodyline@gmail.com\">fiziobodyline@gmail.com</a><br><br><br><br><br>24 órán belüli lemondás esetén a kezelés árát a következő alkalommal felszámoljuk, megértésüket köszönjük.<br>",
           "text2": "<p class=\"mbr-contacts__text\"><strong>Kövess minket</strong></p><ul><li>facebook.com/fiziobodyline.hu</li></ul>",
           "_tags": [
             "Téma"
@@ -2961,7 +2922,8 @@
             "P": {
               "text-align": "left"
             }
-          }
+          },
+          "_sourceTheme": "mobirise3"
         }
       ]
     },
@@ -3040,7 +3002,7 @@
             "fontColor": "#28324e",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Szolgáltatások</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Gyógytorna</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html#msg-box8-t\" target=\"_blank\">McKenzie terápia</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html#msg-box8-x\" target=\"_blank\">Schroth terápia</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html#content5-11\" target=\"_blank\">Kinezio tape</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html#content8-16\" target=\"_blank\">FDM Typaldos módszer</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html#msg-box8-1a\" target=\"_blank\">Dorn terápia</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Perifériás idegmobilizáció</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html#msg-box8-1j\" target=\"_blank\">Manuálterápia</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://behindyourlife.hu\" target=\"_blank\">Anatomy Trains</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://behindyourlife.hu\" target=\"_blank\">Testszobrászat</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Rólam</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"babocsayzsofia.html\" aria-expanded=\"false\" target=\"_blank\">Babocsay Zsófia</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#pricing-table2-8\" aria-expanded=\"false\">Árak</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Blog</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Piriformis szindróma</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Nyaki fájdalom okai és kezelése</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Teniszkönyök,golfkönyök</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"index.html#form1-a\" target=\"_blank\">BEJELENTKEZÉS</a></li>",
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Szolgáltatások</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Gyógytorna</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html#msg-box8-t\" target=\"_blank\">McKenzie terápia</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html#msg-box8-x\" target=\"_blank\">Schroth terápia</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html#content5-11\" target=\"_blank\">Kinezio tape</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html#content8-16\" target=\"_blank\">FDM Typaldos módszer</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Perifériás idegmobilizáció</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html#msg-box8-1j\" target=\"_blank\">Manuálterápia</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://behindyourlife.hu\" target=\"_blank\">Anatomy Trains</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Rólam</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"babocsayzsofia.html\" aria-expanded=\"false\" target=\"_blank\">Babocsay Zsófia</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#pricing-table2-8\" aria-expanded=\"false\">Árak</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Blog</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Piriformis szindróma</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Nyaki fájdalom okai és kezelése</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Teniszkönyök,golfkönyök</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"index.html#form1-a\" target=\"_blank\">BEJELENTKEZÉS</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -3066,7 +3028,8 @@
             "Téma"
           ],
           "_name": "menu",
-          "_anchor": "menu-d"
+          "_anchor": "menu-d",
+          "_sourceTheme": "mobirise3"
         },
         {
           "_styles": {
@@ -3105,7 +3068,8 @@
             "Téma"
           ],
           "_name": "content5",
-          "_anchor": "content5-i"
+          "_anchor": "content5-i",
+          "_sourceTheme": "mobirise3"
         },
         {
           "_inherit": "content5",
@@ -3147,7 +3111,8 @@
             "Téma"
           ],
           "_name": "content8",
-          "_anchor": "content8-j"
+          "_anchor": "content8-j",
+          "_sourceTheme": "mobirise3"
         },
         {
           "_styles": {
@@ -3187,7 +3152,8 @@
             "Téma"
           ],
           "_name": "content5",
-          "_anchor": "content5-k"
+          "_anchor": "content5-k",
+          "_sourceTheme": "mobirise3"
         },
         {
           "_inherit": "content5",
@@ -3229,7 +3195,8 @@
             "Téma"
           ],
           "_name": "content8",
-          "_anchor": "content8-l"
+          "_anchor": "content8-l",
+          "_sourceTheme": "mobirise3"
         },
         {
           "_styles": {
@@ -3253,7 +3220,8 @@
             "Téma"
           ],
           "_name": "header3",
-          "_anchor": "header3-m"
+          "_anchor": "header3-m",
+          "_sourceTheme": "mobirise3"
         },
         {
           "_params": {
@@ -3313,7 +3281,8 @@
             ".mbr-section-title": {
               "font-size": "32px"
             }
-          }
+          },
+          "_sourceTheme": "mobirise3"
         },
         {
           "_params": {
@@ -3328,13 +3297,12 @@
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8,
             "googleMap": {
-              "address": "1056 Budapest irányi utca 27",
-              "placeId": "ChIJyyObQkTcQUcRNL292g7pjpo",
+              "address": "1136 Budapest Felka utca 6.",
               "state": "ok",
               "stateDetails": ""
             }
           },
-          "text1": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\"><span style=\"font-size: 16px; letter-spacing: -1px;\"><b>Cím</b></span></font><br>1056 Budapest, Irányi utca 27.<br><br><br><br>\n<strong>Kapcsolat</strong><br>\nEmail: <a href=\"mailto:fiziobodyline@gmail.com\">fiziobodyline@gmail.com</a><br><br><br><br><br>24 órán belüli lemondás esetén a kezelés árát a következő alkalommal felszámoljuk, megértésüket köszönjük.<br>",
+          "text1": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\"><span style=\"font-size: 16px; letter-spacing: -1px;\"><b>Cím</b></span></font><br>1136 Budapest, Felka utca 6.<br><br><br><br>\n<strong>Kapcsolat</strong><br>\nEmail: <a href=\"mailto:fiziobodyline@gmail.com\">fiziobodyline@gmail.com</a><br><br><br><br><br>24 órán belüli lemondás esetén a kezelés árát a következő alkalommal felszámoljuk, megértésüket köszönjük.<br>",
           "text2": "<p class=\"mbr-contacts__text\"><strong>Kövess minket</strong></p><ul><li>facebook.com/fiziobodyline.hu</li></ul>",
           "_tags": [
             "Téma"
@@ -3345,7 +3313,8 @@
             "P": {
               "text-align": "left"
             }
-          }
+          },
+          "_sourceTheme": "mobirise3"
         }
       ]
     },
@@ -3367,7 +3336,8 @@
             "Téma"
           ],
           "_name": "content1",
-          "_anchor": "content1-2l"
+          "_anchor": "content1-2l",
+          "_sourceTheme": "mobirise3"
         },
         {
           "_styles": {
@@ -3437,7 +3407,7 @@
             "fontColor": "#28324e",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Szolgáltatások</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Gyógytorna</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html#msg-box8-t\" target=\"_blank\">McKenzie terápia</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html#msg-box8-x\" target=\"_blank\">Schroth terápia</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html#content5-11\" target=\"_blank\">Kinezio tape</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html#content8-16\" target=\"_blank\">FDM Typaldos módszer</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html#msg-box8-1a\" target=\"_blank\">Dorn terápia</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Perifériás idegmobilizáció</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html#msg-box8-1j\" target=\"_blank\">Manuálterápia</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://behindyourlife.hu\" target=\"_blank\">Anatomy Trains</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://behindyourlife.hu\" target=\"_blank\">Testszobrászat</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Rólam</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"babocsayzsofia.html\" aria-expanded=\"false\" target=\"_blank\">Babocsay Zsófia</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#pricing-table2-8\" aria-expanded=\"false\">Árak</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Blog</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Piriformis szindróma</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Nyaki fájdalom okai és kezelése</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Teniszkönyök,golfkönyök</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"index.html#form1-a\" target=\"_blank\">BEJELENTKEZÉS</a></li>",
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Szolgáltatások</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Gyógytorna</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html#msg-box8-t\" target=\"_blank\">McKenzie terápia</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html#msg-box8-x\" target=\"_blank\">Schroth terápia</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html#content5-11\" target=\"_blank\">Kinezio tape</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html#content8-16\" target=\"_blank\">FDM Typaldos módszer</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Perifériás idegmobilizáció</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html#msg-box8-1j\" target=\"_blank\">Manuálterápia</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://behindyourlife.hu\" target=\"_blank\">Anatomy Trains</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Rólam</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"babocsayzsofia.html\" aria-expanded=\"false\" target=\"_blank\">Babocsay Zsófia</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#pricing-table2-8\" aria-expanded=\"false\">Árak</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Blog</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Piriformis szindróma</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Nyaki fájdalom okai és kezelése</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Teniszkönyök,golfkönyök</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"index.html#form1-a\" target=\"_blank\">BEJELENTKEZÉS</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -3463,7 +3433,8 @@
             "Téma"
           ],
           "_name": "menu",
-          "_anchor": "menu-2i"
+          "_anchor": "menu-2i",
+          "_sourceTheme": "mobirise3"
         },
         {
           "_params": {
@@ -3490,7 +3461,8 @@
             "Téma"
           ],
           "_name": "image2",
-          "_anchor": "image2-2n"
+          "_anchor": "image2-2n",
+          "_sourceTheme": "mobirise3"
         },
         {
           "_params": {
@@ -3505,13 +3477,12 @@
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8,
             "googleMap": {
-              "address": "1056 Budapest irányi utca 27",
-              "placeId": "ChIJyyObQkTcQUcRNL292g7pjpo",
+              "address": "1136 Budapest Felka utca 6.",
               "state": "ok",
               "stateDetails": ""
             }
           },
-          "text1": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\"><span style=\"font-size: 16px; letter-spacing: -1px;\"><b>Cím</b></span></font><br>1056 Budapest, Irányi utca 27.<br><br><br><br>\n<strong>Kapcsolat</strong><br>\nEmail: <a href=\"mailto:fiziobodyline@gmail.com\">fiziobodyline@gmail.com</a><br><br><br><br><br>24 órán belüli lemondás esetén a kezelés árát a következő alkalommal felszámoljuk, megértésüket köszönjük.<br>",
+          "text1": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\"><span style=\"font-size: 16px; letter-spacing: -1px;\"><b>Cím</b></span></font><br>1136 Budapest, Felka utca 6.<br><br><br><br>\n<strong>Kapcsolat</strong><br>\nEmail: <a href=\"mailto:fiziobodyline@gmail.com\">fiziobodyline@gmail.com</a><br><br><br><br><br>24 órán belüli lemondás esetén a kezelés árát a következő alkalommal felszámoljuk, megértésüket köszönjük.<br>",
           "text2": "<p class=\"mbr-contacts__text\"><strong>Kövess minket</strong></p><ul><li>facebook.com/fiziobodyline.hu</li></ul>",
           "_tags": [
             "Téma"
@@ -3522,7 +3493,8 @@
               "text-align": "left"
             }
           },
-          "_anchor": "contacts2-2j"
+          "_anchor": "contacts2-2j",
+          "_sourceTheme": "mobirise3"
         },
         {
           "_params": {
@@ -3542,7 +3514,8 @@
             "Téma"
           ],
           "_name": "footer1",
-          "_anchor": "footer1-2k"
+          "_anchor": "footer1-2k",
+          "_sourceTheme": "mobirise3"
         }
       ]
     },
@@ -3621,7 +3594,7 @@
             "fontColor": "#28324e",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Szolgáltatások</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Gyógytorna</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html#msg-box8-t\" target=\"_blank\">McKenzie terápia</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html#msg-box8-x\" target=\"_blank\">Schroth terápia</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html#content5-11\" target=\"_blank\">Kinezio tape</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html#content8-16\" target=\"_blank\">FDM Typaldos módszer</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html#msg-box8-1a\" target=\"_blank\">Dorn terápia</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Perifériás idegmobilizáció</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html#msg-box8-1j\" target=\"_blank\">Manuálterápia</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://behindyourlife.hu\" target=\"_blank\">Anatomy Trains</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://behindyourlife.hu\" target=\"_blank\">Testszobrászat</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Rólam</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"babocsayzsofia.html\" aria-expanded=\"false\" target=\"_blank\">Babocsay Zsófia</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#pricing-table2-8\" aria-expanded=\"false\">Árak</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Blog</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Piriformis szindróma</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Nyaki fájdalom okai és kezelése</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Teniszkönyök,golfkönyök</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"index.html#form1-a\" target=\"_blank\">BEJELENTKEZÉS</a></li>",
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Szolgáltatások</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Gyógytorna</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html#msg-box8-t\" target=\"_blank\">McKenzie terápia</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html#msg-box8-x\" target=\"_blank\">Schroth terápia</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html#content5-11\" target=\"_blank\">Kinezio tape</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html#content8-16\" target=\"_blank\">FDM Typaldos módszer</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Perifériás idegmobilizáció</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html#msg-box8-1j\" target=\"_blank\">Manuálterápia</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://behindyourlife.hu\" target=\"_blank\">Anatomy Trains</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Rólam</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"babocsayzsofia.html\" aria-expanded=\"false\" target=\"_blank\">Babocsay Zsófia</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#pricing-table2-8\" aria-expanded=\"false\">Árak</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Blog</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Piriformis szindróma</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Nyaki fájdalom okai és kezelése</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Teniszkönyök,golfkönyök</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"index.html#form1-a\" target=\"_blank\">BEJELENTKEZÉS</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -3647,7 +3620,8 @@
             "Téma"
           ],
           "_name": "menu",
-          "_anchor": "menu-2o"
+          "_anchor": "menu-2o",
+          "_sourceTheme": "mobirise3"
         },
         {
           "_params": {
@@ -3660,7 +3634,8 @@
             "Téma"
           ],
           "_name": "content1",
-          "_anchor": "content1-2r"
+          "_anchor": "content1-2r",
+          "_sourceTheme": "mobirise3"
         },
         {
           "_params": {
@@ -3673,7 +3648,8 @@
             "Téma"
           ],
           "_name": "buttons1",
-          "_anchor": "buttons1-2s"
+          "_anchor": "buttons1-2s",
+          "_sourceTheme": "mobirise3"
         },
         {
           "_params": {
@@ -3688,13 +3664,12 @@
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8,
             "googleMap": {
-              "address": "1056 Budapest irányi utca 27",
-              "placeId": "ChIJyyObQkTcQUcRNL292g7pjpo",
+              "address": "1136 Budapest Felka utca 6.",
               "state": "ok",
               "stateDetails": ""
             }
           },
-          "text1": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\"><span style=\"font-size: 16px; letter-spacing: -1px;\"><b>Cím</b></span></font><br>1056 Budapest, Irányi utca 27.<br><br><br><br>\n<strong>Kapcsolat</strong><br>\nEmail: <a href=\"mailto:fiziobodyline@gmail.com\">fiziobodyline@gmail.com</a><br><br><br><br><br>24 órán belüli lemondás esetén a kezelés árát a következő alkalommal felszámoljuk, megértésüket köszönjük.<br>",
+          "text1": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\"><span style=\"font-size: 16px; letter-spacing: -1px;\"><b>Cím</b></span></font><br>1136 Budapest, Felka utca 6.<br><br><br><br>\n<strong>Kapcsolat</strong><br>\nEmail: <a href=\"mailto:fiziobodyline@gmail.com\">fiziobodyline@gmail.com</a><br><br><br><br><br>24 órán belüli lemondás esetén a kezelés árát a következő alkalommal felszámoljuk, megértésüket köszönjük.<br>",
           "text2": "<p class=\"mbr-contacts__text\"><strong>Kövess minket</strong></p><ul><li>facebook.com/fiziobodyline.hu</li></ul>",
           "_tags": [
             "Téma"
@@ -3705,7 +3680,8 @@
               "text-align": "left"
             }
           },
-          "_anchor": "contacts2-2p"
+          "_anchor": "contacts2-2p",
+          "_sourceTheme": "mobirise3"
         },
         {
           "_params": {
@@ -3725,7 +3701,8 @@
             "Téma"
           ],
           "_name": "footer1",
-          "_anchor": "footer1-2q"
+          "_anchor": "footer1-2q",
+          "_sourceTheme": "mobirise3"
         }
       ]
     },
@@ -3747,7 +3724,8 @@
             "Téma"
           ],
           "_name": "content1",
-          "_anchor": "content1-2w"
+          "_anchor": "content1-2w",
+          "_sourceTheme": "mobirise3"
         },
         {
           "_params": {
@@ -3760,7 +3738,8 @@
             "Téma"
           ],
           "_name": "buttons1",
-          "_anchor": "buttons1-2x"
+          "_anchor": "buttons1-2x",
+          "_sourceTheme": "mobirise3"
         },
         {
           "_styles": {
@@ -3830,7 +3809,7 @@
             "fontColor": "#28324e",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Szolgáltatások</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Gyógytorna</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html#msg-box8-t\" target=\"_blank\">McKenzie terápia</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html#msg-box8-x\" target=\"_blank\">Schroth terápia</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html#content5-11\" target=\"_blank\">Kinezio tape</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html#content8-16\" target=\"_blank\">FDM Typaldos módszer</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html#msg-box8-1a\" target=\"_blank\">Dorn terápia</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Perifériás idegmobilizáció</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html#msg-box8-1j\" target=\"_blank\">Manuálterápia</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://behindyourlife.hu\" target=\"_blank\">Anatomy Trains</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://behindyourlife.hu\" target=\"_blank\">Testszobrászat</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Rólam</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"babocsayzsofia.html\" aria-expanded=\"false\" target=\"_blank\">Babocsay Zsófia</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#pricing-table2-8\" aria-expanded=\"false\">Árak</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Blog</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Piriformis szindróma</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Nyaki fájdalom okai és kezelése</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Teniszkönyök,golfkönyök</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"index.html#form1-a\" target=\"_blank\">BEJELENTKEZÉS</a></li>",
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Szolgáltatások</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Gyógytorna</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html#msg-box8-t\" target=\"_blank\">McKenzie terápia</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html#msg-box8-x\" target=\"_blank\">Schroth terápia</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html#content5-11\" target=\"_blank\">Kinezio tape</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html#content8-16\" target=\"_blank\">FDM Typaldos módszer</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Perifériás idegmobilizáció</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html#msg-box8-1j\" target=\"_blank\">Manuálterápia</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://behindyourlife.hu\" target=\"_blank\">Anatomy Trains</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Rólam</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"babocsayzsofia.html\" aria-expanded=\"false\" target=\"_blank\">Babocsay Zsófia</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#pricing-table2-8\" aria-expanded=\"false\">Árak</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Blog</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Piriformis szindróma</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Nyaki fájdalom okai és kezelése</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Teniszkönyök,golfkönyök</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"index.html#form1-a\" target=\"_blank\">BEJELENTKEZÉS</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -3856,7 +3835,8 @@
             "Téma"
           ],
           "_name": "menu",
-          "_anchor": "menu-2t"
+          "_anchor": "menu-2t",
+          "_sourceTheme": "mobirise3"
         },
         {
           "_params": {
@@ -3871,13 +3851,12 @@
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8,
             "googleMap": {
-              "address": "1056 Budapest irányi utca 27",
-              "placeId": "ChIJyyObQkTcQUcRNL292g7pjpo",
+              "address": "1136 Budapest Felka utca 6.",
               "state": "ok",
               "stateDetails": ""
             }
           },
-          "text1": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\"><span style=\"font-size: 16px; letter-spacing: -1px;\"><b>Cím</b></span></font><br>1056 Budapest, Irányi utca 27.<br><br><br><br>\n<strong>Kapcsolat</strong><br>\nEmail: <a href=\"mailto:fiziobodyline@gmail.com\">fiziobodyline@gmail.com</a><br><br><br><br><br>24 órán belüli lemondás esetén a kezelés árát a következő alkalommal felszámoljuk, megértésüket köszönjük.<br>",
+          "text1": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\"><span style=\"font-size: 16px; letter-spacing: -1px;\"><b>Cím</b></span></font><br>1136 Budapest, Felka utca 6.<br><br><br><br>\n<strong>Kapcsolat</strong><br>\nEmail: <a href=\"mailto:fiziobodyline@gmail.com\">fiziobodyline@gmail.com</a><br><br><br><br><br>24 órán belüli lemondás esetén a kezelés árát a következő alkalommal felszámoljuk, megértésüket köszönjük.<br>",
           "text2": "<p class=\"mbr-contacts__text\"><strong>Kövess minket</strong></p><ul><li>facebook.com/fiziobodyline.hu</li></ul>",
           "_tags": [
             "Téma"
@@ -3888,7 +3867,8 @@
               "text-align": "left"
             }
           },
-          "_anchor": "contacts2-2u"
+          "_anchor": "contacts2-2u",
+          "_sourceTheme": "mobirise3"
         },
         {
           "_params": {
@@ -3908,7 +3888,8 @@
             "Téma"
           ],
           "_name": "footer1",
-          "_anchor": "footer1-2v"
+          "_anchor": "footer1-2v",
+          "_sourceTheme": "mobirise3"
         }
       ]
     }
