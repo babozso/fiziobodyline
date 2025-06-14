@@ -24,25 +24,29 @@
         "#8c8c8c",
         "#2e2e2e",
         "#222222",
-        "#275c78"
+        "#275c78",
+        "#f4e8d5"
       ]
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.8.10",
     "siteFonts": [],
-    "uniqCompNum": 119,
+    "uniqCompNum": 120,
     "versionPublish": "5.8.0",
     "screenshot": "screenshot.png",
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
     "robotsSwitcher": "on",
-    "siteUrl": "",
+    "siteUrl": false,
     "sitemapSwitcherAuto": "on",
-    "favicon": "",
+    "favicon": false,
     "noImageResize": "",
     "google-analytics": "",
-    "cookiesAlert": "",
-    "gdpr": "",
-    "imageResize": true
+    "cookiesAlert": false,
+    "gdpr": false,
+    "imageResize": true,
+    "publishChangesOnly": true,
+    "mbrsiteDomain": "pcqi9r3x5k",
+    "sitemapSwitcher": false
   },
   "pages": {
     "index.html": {
@@ -205,7 +209,7 @@
             "bgImage": "@THEME_PATH@/components/_images/landscape.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#ffffff",
+            "bgColor": "#f4e8d5",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -236,7 +240,7 @@
             }
           },
           "title": "<span style=\"font-weight: normal;\">Miért a Fiziobodyline?</span>",
-          "text": "Egészségközpontunkban szakembereink amellett, hogy gondos vizsgálat után a legmegfelelőbb terápiát kiválasztják, személyre szabott kezeléssel és kedves, bátorító magatartásukkal a hangulatot is pozitívan befolyásolva gyors és kellemes állapotjavulást idéznek elő. \n<br>\n<br>Jöjjön el hozzánk, ha Önnek is fontos a megelőzés és a kialakult problémák kezelése. <br>\n<br>Legkorszerűbb terápiás kezelések és barátságos környezet. <br>Kell ennél több?&nbsp;",
+          "text": "<br><br>Holisztikus szemlélettel dolgozom, hiszen meggyőződésem, hogy a test, a lélek és a szellem egymással szoros összefüggésben működik. Munkám során manuálterápiás és egyéb terápiás kezeléseket alkalmazok, amelyek nem csupán a fizikai testre hatnak, hanem támogatják az energetikai rendszer kiegyensúlyozását is. A kezelések során kiemelt figyelmet fordítok az érzelmi elakadásokra és azok fizikai megjelenési formáira – hiszen gyakran ezek az érzelmi mintázatok húzódnak meg a testi tünetek hátterében.<br><br>Szemléletem alapja az, hogy minden ember egyedi bio-pszicho-szociális egység, amely sajátos tapasztalatokkal, múltbéli eseményekkel és érzelmi lenyomatokkal rendelkezik. Éppen ezért minden páciensnél egyéni megközelítést alkalmazok: globális nézőpontból vizsgálom az összefüggéseket, kronológiailag visszatekintve mindazokra a tényezőkre, amelyek hatással lehetnek a váz-, izom- és fascia rendszer aktuális állapotára.<br><br>Célom nem csupán a fájdalom enyhítése vagy a mozgásszervi panaszok kezelése, hanem a teljes ember mélyebb megértése, hogy együtt találjuk meg az egyensúly felé vezető utat – testi, lelki és energetikai szinten egyaránt.&nbsp;<br>Te éppúgy kellesz hozzá, mint én.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "_tags": [
             "Téma"
@@ -313,8 +317,8 @@
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features7",
               "linkInNewWindow": false,
-              "name": "info",
-              "family": "MobiriseIcons",
+              "name": "preview",
+              "family": "Mobirise2",
               "active": true,
               "link": "https://mobirise.com",
               "size": "50",
@@ -397,12 +401,12 @@
               "font-size": "18px"
             }
           },
-          "title1": "Gyógytorna - speciális kezelések",
+          "title1": "Gyógytorna&nbsp;",
           "subtitle1": "Bootstrap 4 has been noted",
           "caption1": "A gyógytorna rendszeres végzésével visszanyerhetjük a fájdalommentes<i> </i>életet.<i>\n</i><br><i><br></i>-Aktív lumbális stabilizációs tréning<br>- Mckenzie terápia \n<br>- Schroth terápia \n<br>- Perifáriás idegmobilizáció <br><br><br><br><br>",
           "title2": "Speciális kezelések",
           "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "- Manuálterápia \n<br>- FDM-Typaldos módszer&nbsp;<br>- Fascia terápia\n<br>- Anatomy trains<br>- Kinezio tape<br>-Craniosacrális kezelés",
+          "caption2": "- Manuálterápia (Barvicsenko)<br>- FDM-Typaldos módszer&nbsp;<br>- Fascia terápia (Anatomy Trains)<br>- Kinezio tape<br>-Craniosacrális kezelés",
           "title3": "Life coaching",
           "subtitle3": "Google has a highly exhaustive list of fonts",
           "caption3": "&nbsp;A coach segít rájönni ki vagy valójában, segít megérteni Önmagadat ,segíti a továbblendülést, az elakadások, problémák megoldását. <br>\n<br>- <u>Célja</u>: más perspektívából ránézni egy-egy élethelyzetre.",
@@ -441,7 +445,7 @@
             "paddingBottom": "2",
             "bgColor": "#275c78"
           },
-          "title": "Rólam",
+          "title": "Végzettségeim",
           "meta": "",
           "_tags": [
             "Téma"
@@ -459,11 +463,11 @@
             "imageSize": 50,
             "paddingTop": "0",
             "paddingBottom": 0,
-            "bgImageRadio": true,
+            "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-1919x1080.jpg",
             "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgColor": "#f4e8d5",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -476,7 +480,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/img-212-561x630.jpg",
+              "src": "@PROJECT_PATH@/assets/images/img-213-561x630.jpg",
               "link": "",
               "alt": "Babocsay Zsófia",
               "title": "",
@@ -495,7 +499,7 @@
             }
           },
           "title": "Babocsay Zsófia<br>",
-          "text": "<b>- Gyógytornász-fizioterapeuta \n<br>-Barvicsenko Manuálterápia \n<br>- McKenzie terápia \n<br>- Kinezio tape \n<br>- 3D Scoliosis/Schroth terápia \n<br>- THERABAND CLX™ \n<br>- Dorn terápia és Breuss maszzázs \n<br>- FDM-Typaldos módszer I.,II,III. (Fascia Disztorziós Modell) \n<br>- Perifériás idegmobilizáció \n<br>- Anatomy Trains<br>- CST1, CST 2 (Craniosacrális terápia)</b>",
+          "text": "<b>- Gyógytornász-fizioterapeuta \n<br>-Barvicsenko Manuálterápia \n<br>- McKenzie terápia \n<br>- Kinezio tape \n<br>- 3D Scoliosis/Schroth terápia \n<br>- THERABAND CLX™ \n<br>- Dorn terápia és Breuss masszázs \n<br>- FDM-Typaldos módszer I.,II,III. (Fascia Disztorziós Modell) \n<br>- Perifériás idegmobilizáció \n<br>- Anatomy Trains<br>- CST1, CST 2 (Craniosacrális terápia)</b>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"babocsayzsofia.html\" data-toolbar=\"-mbrBtnMove\">További részletek</a>",
           "_tags": [
             "Téma"
@@ -571,7 +575,7 @@
             "overlayOpacity": 0.5
           },
           "description1": "&nbsp;",
-          "description2": "Gyógytorna,\n<br>McKenzie terápia, \n<br>Ágyéki- és nyaki stabilizáló tréning, \n<br>Perifériás idegmobilizáció,\n<br>Preventív gerinctréning,\n<br>Funkcionális tréning\n<br>3D Scoliosis Terápia, <br>Kinezio tape&nbsp;",
+          "description2": "Gyógytorna,\n<br>McKenzie terápia, \n<br>Ágyéki- és nyaki stabilizáló tréning, \n<br>Perifériás idegmobilizáció,\n<br>Preventív gerinctréning,\n<br>Funkcionális tréning\n<br>3D Scoliosis Terápia, <br>&nbsp;",
           "description3": "Typaldos- FDM terápia,\n<br>Triggerpont terápia, \n<br>Manuálterápia, Fascia terápia, Anatomy Trains,<br>Craniosacrális kezelés",
           "description4": "<br>Life coaching+tudatalatti blokkok oldása&nbsp;",
           "button1": "<a data-app-btn=\"true\" href=\"mailto:fiziobodyline@gmail.com\" class=\"btn btn-black btn-black-outline\" data-toolbar=\"-mbrBtnMove\">BEJELENTKEZÉS</a>",
@@ -2407,7 +2411,7 @@
             "showImages": true,
             "showName": false,
             "showBio": false,
-            "count": 3,
+            "count": "1",
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": false,
@@ -2419,57 +2423,24 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "Kezelést végző munkatársak",
+          "title": "Bejelentkezés",
           "subtitle": "Shape your future web project with sharp design and refine coded functions.",
           "testimonial": [
             {
               "authorName": "Abanoub S.",
               "authorBio": "User",
-              "text": "<p><b>Geréby Fruzsina</b></p><p><a href=\"tel:+36305237527\" class=\"text-black\">+36305237527</a></p>",
+              "text": "<p><b>Babocsay Zsófia</b></p><p><a href=\"tel:+36305237527\" class=\"text-black\">+36</a>203346100</p>",
               "media": {
                 "image": {
-                  "src": "@PROJECT_PATH@/assets/images/gerb-3-126x160.jpg",
+                  "src": "@PROJECT_PATH@/assets/images/zs-1-159x160.jpg",
                   "class": "img-circle",
                   "height": 160,
                   "width": 160,
                   "active": true,
                   "link": "",
                   "alt": "",
-                  "title": ""
-                }
-              }
-            },
-            {
-              "authorName": "Suffian A.",
-              "authorBio": "User",
-              "text": "<p><b>Babocsay Zsófia</b></p><p><a href=\"tel:+36203346100\" class=\"text-black\">+36203346100</a></p>",
-              "media": {
-                "image": {
-                  "src": "@PROJECT_PATH@/assets/images/zs-6-128x160.jpg",
-                  "class": "img-circle",
-                  "height": 160,
-                  "width": 160,
-                  "active": true,
-                  "link": "",
-                  "alt": "",
-                  "title": ""
-                }
-              }
-            },
-            {
-              "authorName": "Jhollman C.",
-              "authorBio": "User",
-              "text": "<p><b>Erdei Ildikó</b></p><p><span style=\"font-style: normal;\"><a href=\"tel:+36305585319\" class=\"text-black\">+36305585319</a></span></p>",
-              "media": {
-                "image": {
-                  "src": "@PROJECT_PATH@/assets/images/ildi-4-160x128.jpg",
-                  "class": "img-circle",
-                  "height": 160,
-                  "width": 160,
-                  "active": true,
-                  "link": "",
-                  "alt": "",
-                  "title": ""
+                  "title": "",
+                  "linkInNewWindow": false
                 }
               }
             }
@@ -2833,65 +2804,43 @@
           "_sourceTheme": "mobirise3"
         },
         {
+          "_inherit": "msg-box8",
+          "_styles": {
+            ".mbr-section-title, .lead": {
+              "color": "#000"
+            },
+            ".lead": {
+              "color": "#275c78"
+            }
+          },
           "_params": {
             "showTitle": true,
-            "showSubTitle": true,
-            "labelsColor": "#232323",
-            "paddingTop": 3,
-            "paddingBottom": 3,
+            "showText": true,
+            "showButton": false,
+            "paddingTop": "3",
+            "paddingBottom": "3",
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#fff",
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
             "overlay": false,
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "BEJELENTKEZÉS",
-          "subtitle": "24 órán belüli lemondás esetén a kezelés árát a következő alkalommal felszámoljuk, megértésüket köszönjük.",
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Elküldöm</a>",
-          "form": {
-            "action": "fiziobodyline@gmail.com",
-            "alerts": {
-              "success": "Köszönjük a jelentkezését, hamarosan felkeressük időpont egyeztetés céljából! \n\nA Fiziobodyline csapata\n"
-            },
-            "fields": {
-              "name": {
-                "visible": true,
-                "title": "Name",
-                "customTitle": "Név"
-              },
-              "email": {
-                "visible": true,
-                "title": "Email",
-                "customTitle": "Email"
-              },
-              "phone": {
-                "visible": true,
-                "title": "Phone",
-                "customTitle": "Telefonszám"
-              },
-              "message": {
-                "title": "Message",
-                "customTitle": "Kezelő megnevezése, megjegyzés"
-              }
-            }
-          },
+          "title": "Bejelentkezés",
+          "text": "<p><i>24 órán belüli lemondás a következő alkalommal felszámolásra kerül. Megértésüket köszönöm.</i></p><p><br></p><p><b>Babocsay Zsófia</b></p><p><a href=\"tel:+36203346100\" class=\"text-primary\">+36203346100</a></p><p><a href=\"mailto:fiziobodyline@gmail.com\" class=\"text-primary\">fiziobodyline@gmail.com</a></p>",
           "_tags": [
-            "Téma"
+            "Theme"
           ],
-          "_name": "form1",
-          "_anchor": "form1-o",
-          "_styles": {
-            ".form-control-label": {
-              "color": "#232323"
-            },
-            ".mbr-section-title": {
-              "font-size": "32px"
-            }
-          },
-          "_sourceTheme": "mobirise3"
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
+          "_name": "msg-box3",
+          "_sourceTheme": "mobirise3",
+          "_anchor": "msg-box3-3b"
         },
         {
           "_params": {
@@ -3214,74 +3163,13 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "title": "Szeretettel várjuk a gyógyulni vágyó „kicsiket” és „nagyokat” egyaránt!",
+          "title": "Szeretettel várjom a gyógyulni vágyó „kicsiket” és „nagyokat” egyaránt!<br><br><br>Bejelentkezés<br><br><br><span style=\"font-weight: normal;\">Babocsay Zsófia</span><br><br><br><a href=\"tel:+36203346100\" class=\"text-primary\">+36203346100</a><br><a href=\"tel:+36203346100\" class=\"text-primary\"><br></a><br><a href=\"mailto:fiziobodyline@gmail.com\" class=\"text-primary\">fiziobodyline@gmail.com</a>",
           "meta": "",
           "_tags": [
             "Téma"
           ],
           "_name": "header3",
           "_anchor": "header3-m",
-          "_sourceTheme": "mobirise3"
-        },
-        {
-          "_params": {
-            "showTitle": true,
-            "showSubTitle": true,
-            "labelsColor": "#232323",
-            "paddingTop": "1",
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "title": "BEJELENTKEZÉS",
-          "subtitle": "24 órán belüli lemondás esetén a kezlés árát a következő alkalommal felszámoljuk, megértésüket köszönjük.",
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Elküldöm</a>",
-          "form": {
-            "action": "fiziobodyline@gmail.com",
-            "alerts": {
-              "success": "Köszönjük a jelentkezését, hamarosan felkeressük időpont egyeztetés céljából! \n\nA Fiziobodyline csapata\n"
-            },
-            "fields": {
-              "name": {
-                "visible": true,
-                "title": "Name",
-                "customTitle": "Név"
-              },
-              "email": {
-                "visible": false,
-                "title": "Email",
-                "customTitle": "Email"
-              },
-              "phone": {
-                "visible": true,
-                "title": "Phone",
-                "customTitle": "Telefonszám"
-              },
-              "message": {
-                "title": "Message",
-                "customTitle": "Kezelő megnevezése, megjegyzés"
-              }
-            }
-          },
-          "_tags": [
-            "Téma"
-          ],
-          "_name": "form1",
-          "_anchor": "form1-n",
-          "_styles": {
-            ".form-control-label": {
-              "color": "#232323"
-            },
-            ".mbr-section-title": {
-              "font-size": "32px"
-            }
-          },
           "_sourceTheme": "mobirise3"
         },
         {
